@@ -47,3 +47,11 @@ Read the [privacy policy](https://sp.aimee.coach/en/privacy) and [terms of servi
 - Source license: [MIT](LICENSE)
 
 Directory availability does not imply endorsement or verified status by Anthropic or OpenAI.
+
+## Development and contributions
+
+This repository is a versioned public distribution, not the primary
+development source. Functional changes are made in Aibility's private platform
+source, validated there, and exported here as a new immutable release. See
+[`CONTRIBUTING.md`](CONTRIBUTING.md) before proposing a change; do not patch the
+manifests, assets, or skills directly in this repository.
