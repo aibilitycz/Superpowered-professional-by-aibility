@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "pluginId": "superpowered-professional",
+  "packageVersion": "1.1.0",
+  "publicationAuthorized": false,
+  "localEvidenceBudget": {
+    "fullLocalSessionClaim": false,
+    "helperSha256": "025bb570c3f8afb03f1d2edc99e4d914c64f315352aced3719d43afd226fb3d0",
+    "caps": {
+      "wallTimeMs": 5000,
+      "filesystemAndSqliteCalls": 2048,
+      "inventoryEntries": 512,
+      "inventoryBytes": 262144,
+      "perReadBytes": 131072,
+      "aggregateModelVisibleEvidenceBytes": 524288,
+      "peakRssBytes": 268435456
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "superpowered-professional",
+  "version": "1.1.0",
+  "description": "Private, self-only professional coaching, report interpretation, and review-before-save Superpowered assessments.",
+  "author": {
+    "name": "aibility s.r.o.",
+    "url": "https://aibility.cz"
+  },
+  "homepage": "https://sp.aimee.coach",
+  "repository": "https://github.com/aibilitycz/Superpowered-professional-by-aibility",
+  "license": "MIT",
+  "keywords": [
+    "superpowered",
+    "professional-coaching",
+    "ai-assessment",
+    "aibility"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Superpowered Professional",
+        "shortDescription": "Practical coaching and Superpowered assessment",
+        "longDescription": "Get practical coaching on work in front of you, understand your Superpowered profile, and prepare a private, review-before-save assessment.",
+        "developerName": "aibility",
+        "category": "Productivity",
+        "capabilities": ["Interactive", "Write"],
+        "composerIcon": "./assets/composer-icon.svg",
+        "logo": "./assets/logo.svg",
+        "websiteURL": "https://sp.aimee.coach",
+        "privacyPolicyURL": "https://sp.aimee.coach/en/privacy",
+        "termsOfServiceURL": "https://sp.aimee.coach/en/terms",
+        "defaultPrompt": [
+          "Assess how I work with AI toward my current goal. Keep raw evidence here, show me the report, and save only after I confirm."
+        ],
+        "brandColor": "#5938B7",
+        "screenshots": []
+      }
+    }
+  }
+}

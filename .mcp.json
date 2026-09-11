@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "superpowered-professional": {
+      "type": "http",
+      "url": "https://sp.aimee.coach/api/mcp/plugin"
+    }
+  }
+}

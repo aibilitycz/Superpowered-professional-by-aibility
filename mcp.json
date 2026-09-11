@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "superpowered-professional": {
+      "type": "streamable-http",
+      "url": "https://sp.aimee.coach/api/mcp/plugin"
+    }
+  }
+}
