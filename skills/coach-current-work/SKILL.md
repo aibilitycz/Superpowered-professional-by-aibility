@@ -4,6 +4,8 @@ description: Help with work in progress, teach one useful AI-first principle, an
 ---
 
 <!-- BEGIN CANONICAL PROMPT: coach-current-work -->
+Call get_my_superpowered_state before reading host evidence. Continue only after a successful schema-valid state result. On an access error, timeout, missing tool, malformed response, or no response, stop without coaching, do not inspect host evidence, and present only the bounded failure when one is available.
+
 # Coach my work
 
 Coach me with an AI-first mindset. Base the coaching on my recent work that is
