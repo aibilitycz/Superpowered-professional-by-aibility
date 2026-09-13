@@ -4,19 +4,45 @@ Superpowered Professional gives Claude practical, private coaching for the work 
 
 The plugin contains three skills and an OAuth-capable remote MCP connection to Aimee. It contains no API key, hook, local credential, or proprietary server implementation.
 
-## Install
+## Connect from Claude or ChatGPT
 
-From the Claude Code plugin directory, search for **Superpowered Professional**. To run this repository directly while the directory submission is being reviewed:
+Use this remote connection URL:
+
+```text
+https://sp.aimee.coach/api/mcp/plugin
+```
+
+- **Claude web or desktop:** open Settings → Connectors → Add custom connector, paste the URL, and complete OAuth.
+- **ChatGPT:** enable Developer mode, add a custom remote MCP plugin, paste the URL, and complete OAuth. Your ChatGPT plan or workspace must allow the required read and write tools.
+
+After connecting, ask your AI to load your current Superpowered state. The connection is ready only after real account data is returned.
+
+## Install in Claude Code
+
+Run these commands inside Claude Code:
+
+```text
+/plugin marketplace add aibilitycz/Superpowered-professional-by-aibility
+/plugin install superpowered-professional@aibility-superpowered
+```
+
+## Install in Codex
+
+Run:
+
+```shell
+codex plugin marketplace add aibilitycz/Superpowered-professional-by-aibility
+```
+
+Then open `/plugins` and install **Superpowered Professional** from **aibility-superpowered**.
+
+## Direct development fallback
+
+If marketplace installation is unavailable, run this repository directly:
 
 ```shell
 git clone https://github.com/aibilitycz/Superpowered-professional-by-aibility.git
 claude --plugin-dir ./Superpowered-professional-by-aibility
-```
-
-Claude will connect to:
-
-```text
-https://sp.aimee.coach/api/mcp/plugin
 ```
 
 Sign in with your Aimee account when Claude opens the OAuth authorization flow. Existing connections may need to reconnect when a new permission is added.
