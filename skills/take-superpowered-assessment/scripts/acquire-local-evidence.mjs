@@ -387,6 +387,9 @@ async function inventoryJsonlFiles({
           continue;
         }
         if (!stat.isFile() || !entry.name.endsWith(".jsonl")) continue;
+        if (stat.nlink !== 1) {
+          throw new EvidenceLimitError("unsafe_source");
+        }
         const validatedFile = await validateContainedPath({
           root,
           candidate,
@@ -395,11 +398,12 @@ async function inventoryJsonlFiles({
         });
         if (
           validatedFile.stat.dev !== stat.dev ||
-          validatedFile.stat.ino !== stat.ino
+          validatedFile.stat.ino !== stat.ino ||
+          validatedFile.stat.nlink !== 1
         ) {
           throw new EvidenceLimitError("unsafe_source");
         }
-        if (stat.uid !== expectedUid) {
+        if (expectedUid !== null && stat.uid !== expectedUid) {
           throw new EvidenceLimitError("source_owner_mismatch");
         }
         if (stat.mtimeMs < minimumModifiedAt) continue;
@@ -419,6 +423,7 @@ async function inventoryJsonlFiles({
           uid: stat.uid,
           device: stat.dev,
           inode: stat.ino,
+          linkCount: stat.nlink,
           modifiedAt: stat.mtime.toISOString(),
           mtimeMs: stat.mtimeMs,
         });
@@ -458,7 +463,24 @@ function parseTailJsonLines(buffer, offset) {
   return parsed;
 }
 
-function selectExactCodexWorkspaceRecords(records, workspaceRoot) {
+export function isSameWorkspacePath(recordedRoot, expectedRoot, platform) {
+  if (typeof recordedRoot !== "string" || typeof expectedRoot !== "string") {
+    return false;
+  }
+  if (platform !== "win32") return recordedRoot === expectedRoot;
+  if (
+    !path.win32.isAbsolute(recordedRoot) ||
+    !path.win32.isAbsolute(expectedRoot)
+  ) {
+    return false;
+  }
+  return (
+    path.win32.resolve(recordedRoot).toLocaleLowerCase("en-US") ===
+    path.win32.resolve(expectedRoot).toLocaleLowerCase("en-US")
+  );
+}
+
+function selectExactCodexWorkspaceRecords(records, workspaceRoot, platform) {
   let exactContextIndex = -1;
   for (const [index, { value }] of records.entries()) {
     if (!value || typeof value !== "object" || Array.isArray(value)) {
@@ -469,7 +491,7 @@ function selectExactCodexWorkspaceRecords(records, workspaceRoot) {
     const isExactContext =
       payload === null || typeof payload !== "object" || Array.isArray(payload)
         ? false
-        : payload.cwd === workspaceRoot;
+        : isSameWorkspacePath(payload.cwd, workspaceRoot, platform);
     if (exactContextIndex === -1) {
       if (isExactContext) exactContextIndex = index;
       continue;
@@ -497,6 +519,7 @@ async function readEvidenceFile({
   root,
   file,
   request,
+  platform,
   caps,
   metrics,
   guard,
@@ -515,7 +538,9 @@ async function readEvidenceFile({
   if (
     validatedFile.stat.uid !== file.uid ||
     validatedFile.stat.dev !== file.device ||
-    validatedFile.stat.ino !== file.inode
+    validatedFile.stat.ino !== file.inode ||
+    validatedFile.stat.nlink !== file.linkCount ||
+    validatedFile.stat.nlink !== 1
   ) {
     throw new EvidenceLimitError("unsafe_source");
   }
@@ -532,7 +557,9 @@ async function readEvidenceFile({
       !openedStat.isFile() ||
       openedStat.uid !== file.uid ||
       openedStat.dev !== file.device ||
-      openedStat.ino !== file.inode
+      openedStat.ino !== file.inode ||
+      openedStat.nlink !== file.linkCount ||
+      openedStat.nlink !== 1
     ) {
       throw new EvidenceLimitError("unsafe_source");
     }
@@ -554,6 +581,7 @@ async function readEvidenceFile({
       attributedRecords = selectExactCodexWorkspaceRecords(
         records,
         request.workspaceRoot,
+        platform,
       );
       if (attributedRecords.length === 0) return null;
     }
@@ -594,6 +622,7 @@ export async function acquireLocalEvidence(rawRequest, options = {}) {
   }
   const caps = Object.freeze({ ...LOCAL_EVIDENCE_CAPS, ...options.caps });
   const requestedHomeDir = path.resolve(options.homeDir ?? os.homedir());
+  const platform = options.platform ?? process.platform;
   const expectedUid = options.expectedUid ?? process.getuid?.();
   const nowMs = options.nowMs ?? Date.now;
   const rssBytes = options.rssBytes ?? (() => process.memoryUsage.rss());
@@ -601,7 +630,10 @@ export async function acquireLocalEvidence(rawRequest, options = {}) {
   const metrics = initialMetrics();
   const guard = makeGuard({ caps, metrics, nowMs, rssBytes, startedAt });
 
-  if (!Number.isInteger(expectedUid) || expectedUid < 0) {
+  if (
+    platform !== "win32" &&
+    (!Number.isInteger(expectedUid) || expectedUid < 0)
+  ) {
     return makeLimited(
       "current_uid_unavailable",
       request.provider,
@@ -650,7 +682,7 @@ export async function acquireLocalEvidence(rawRequest, options = {}) {
     const files = await inventoryJsonlFiles({
       root: canonicalRoot,
       provider: request.provider,
-      expectedUid,
+      expectedUid: platform === "win32" ? null : expectedUid,
       minimumModifiedAt,
       caps,
       metrics,
@@ -670,6 +702,7 @@ export async function acquireLocalEvidence(rawRequest, options = {}) {
           root: canonicalRoot,
           file,
           request,
+          platform,
           caps,
           metrics,
           guard,

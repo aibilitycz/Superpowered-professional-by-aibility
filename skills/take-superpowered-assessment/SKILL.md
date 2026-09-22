@@ -19,7 +19,7 @@ If there is no usable evidence, produce no assessment package and do not submit.
 
 ## Packaged local-evidence adapter
 
-- `helper-sha256: 025bb570c3f8afb03f1d2edc99e4d914c64f315352aced3719d43afd226fb3d0`
+- `helper-sha256: 5dfd91168780fc42461f5af0854f821ae20fc1f3c5fcc0bbe9b5539845bb8fa1`
 - `full-local-session-claim: false`
 - Resolve `scripts/acquire-local-evidence.mjs` relative to this `SKILL.md`. Before running it, calculate its SHA-256 and stop on any mismatch.
 - `full-local-session-claim: false` limits only the completeness claim: this package must not imply that it can see every local session or every host. It does not block the bounded helper on a supported host.
