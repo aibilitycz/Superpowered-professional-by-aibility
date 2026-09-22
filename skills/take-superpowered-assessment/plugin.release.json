@@ -1,11 +1,20 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "pluginId": "superpowered-professional",
-  "packageVersion": "1.1.1",
+  "packageVersion": "1.1.2",
   "publicationAuthorized": false,
   "localEvidenceBudget": {
     "fullLocalSessionClaim": false,
     "helperSha256": "025bb570c3f8afb03f1d2edc99e4d914c64f315352aced3719d43afd226fb3d0",
+    "hostAcceptance": {
+      "contractVersion": "local-evidence-host-acceptance-v1",
+      "externalArtifactRequired": false,
+      "requirements": [
+        "current_host_is_supported_provider",
+        "exact_helper_sha256_matches",
+        "current_source_attestation_confirmed"
+      ]
+    },
     "caps": {
       "wallTimeMs": 5000,
       "filesystemAndSqliteCalls": 2048,

@@ -62,7 +62,7 @@ The plugin requests only the scopes needed by its three skills:
 - `aimee.assessments.write` saves an assessment only after your confirmation.
 - `offline_access` lets the OAuth connection refresh without repeated sign-in.
 
-Raw work evidence stays in the host. Only bounded MCP inputs and explicitly confirmed derived assessment results are sent to Aimee. The plugin does not claim access to your full local session unless the current host explicitly provides and validates that capability.
+Raw work evidence stays in the host. Only bounded MCP inputs and explicitly confirmed derived assessment results are sent to Aimee. `fullLocalSessionClaim=false` limits the completeness claim; it does not disable bounded local evidence on supported Codex or Claude Code hosts. The host verifies the exact packaged helper checksum and asks you to confirm the current local profile or workspace immediately before the read. No external certificate, token, or installation approval is required.
 
 Read the [privacy policy](https://sp.aimee.coach/en/privacy) and [terms of service](https://sp.aimee.coach/en/terms).
 
