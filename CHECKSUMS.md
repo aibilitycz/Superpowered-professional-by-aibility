@@ -1,10 +1,10 @@
 # Release checksums
 
-Version `1.1.5`
+Version `1.1.6`
 
 | Artifact | SHA-256 |
 | --- | --- |
-| `superpowered-professional-anthropic-1.1.5.zip` | `85af8e9c73ad1294d0e6bba6697d805c272c125e44ecd9e9b62f9d7897f83410` |
+| `superpowered-professional-anthropic-1.1.6.zip` | `e21042a086e7d8dcb4dd9a12a59d1d386770cc7063e7f4db1029ed6a77f62b17` |
 | `skills/take-superpowered-assessment/scripts/acquire-local-evidence.mjs` | `5dfd91168780fc42461f5af0854f821ae20fc1f3c5fcc0bbe9b5539845bb8fa1` |
 
-The immutable public source candidate is the annotated Git tag `v1.1.5` in this repository.
+The immutable public source candidate is the annotated Git tag `v1.1.6` in this repository.
