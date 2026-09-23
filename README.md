@@ -49,7 +49,7 @@ Sign in with your Aimee account when Claude opens the OAuth authorization flow. 
 
 ## What it does
 
-- `coach-current-work` loads Aibility's versioned AI-first methodology, uses only the current interaction and artifacts to choose direction, and gives one to three concrete recommendations. Earlier coaching may only prevent repetition.
+- `coach-current-work` loads Aibility's versioned ten-principle AI-first methodology, resolves current, daily, weekly, or explicit evidence scope, and returns one practical experiment with a ready prompt and observable signal. Earlier coaching may only prevent repetition.
 - `understand-my-report` explains your current Superpowered state and report.
 - `take-superpowered-assessment` prepares a structured assessment, shows the derived result for review, and saves only after explicit confirmation.
 
