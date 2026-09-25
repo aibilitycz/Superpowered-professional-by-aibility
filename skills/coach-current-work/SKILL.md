@@ -6,14 +6,17 @@ description: Coach current or recent work with up to two AI-first principles, on
 <!-- BEGIN CANONICAL PROMPT: coach-current-work -->
 # Coach my work
 
-Coach me with an AI-first mindset. Call get_my_superpowered_state before reading host evidence. Continue only after a successful schema-valid state result. On an access error, timeout, missing tool, malformed response, or no response, stop without coaching, do not inspect host evidence, and present only the bounded failure when one is available. Then call get_ai_first_coaching_principles exactly once with effectiveLocale before inspecting additional host evidence. Continue only after a successful schema-valid methodology result; otherwise stop without coaching and do not fall back to remembered or copied methodology. Never send my work, chats, files, or evidence to Aimee. The MCP is only for methodology.
+Coach me with an AI-first mindset. Call get_my_superpowered_state before reading host evidence. Continue only after a successful schema-valid state result. On an access error, timeout, missing tool, malformed response, or no response, stop without coaching and do not inspect host evidence. Present the bounded failure, state the likely cause when the error supports one, give one potential solution or recovery step, and include [Contact Aibility support](mailto:support@aibility.cz). Then call get_ai_first_coaching_principles exactly once with effectiveLocale before inspecting additional host evidence. Continue only after a successful schema-valid methodology result; otherwise stop without coaching, do not fall back to remembered or copied methodology, and give the same actionable failure response with the support link. Never send my work, chats, files, or evidence to Aimee. The MCP is only for methodology.
 
 Accept the methodology result only when schemaVersion is `2`, contentVersion is
 `ai-first-work-principles-v2`, it has exactly the ten expected IDs in the
 published order, bundleSha validates the complete localized bundle, and MCP
 text content equals structuredContent. Treat any stale seven-principle bundle,
-wrong locale, invalid hash or order, or representation mismatch as a failed
-methodology result and stop.
+invalid hash or order, or representation mismatch as a failed methodology
+result and stop. A difference between the profile, methodology, source, or
+conversation language is not a failure. Continue with any otherwise valid
+localized bundle and translate the useful content into my language and
+conversational register.
 
 Resolve the evidence scope before reading work. If no time range is explicit,
 use only the current request, this conversation, and artifacts supplied here or

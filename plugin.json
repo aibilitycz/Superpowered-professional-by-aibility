@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "superpowered-professional",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "Private, self-only professional coaching, report interpretation, and review-before-save Superpowered assessments.",
   "author": {
     "name": "aibility s.r.o.",
