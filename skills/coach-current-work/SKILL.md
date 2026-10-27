@@ -24,7 +24,7 @@ of find_use_case, choose_tool, improve_prompt, add_context,
 work_with_information, create_output, verify_or_fix, design_workflow,
 reuse_or_standardize, automate_or_build, coordinate_team, or explore_next_step.
 Classify the mode as repair, improve, expand, systemize, or challenge. Call
-get_ai_workouts with action recommend at most once per person request, using
+get_ai_workouts at most once per person request, using
 those two enum values and responseLocale, the already-authorized organizationId
 only when the person explicitly chose that organization context, and only slugs
 they explicitly asked to exclude. Never put prose, names, customer identifiers,
@@ -39,14 +39,15 @@ derived locally from the current work and safe reason codes, expected result,
 and estimated time. Never translate a canonical title when the requested catalog
 locale is available. Keep direct, alternative, and stretch choices visibly
 equal; do not preselect or open one. Wait for an explicit choice. If the person
-explicitly delegates the choice, select rank one. Then call get_ai_workouts
-with action open and exactly the selected slug, the exact locale returned by
+explicitly delegates the choice, select rank one. Then call open_ai_workout
+with exactly the selected slug, the exact locale returned by
 that recommendation, and its organization context. Accept the open result only
 when its returned locale matches the recommendation locale. Guide only the
 returned canonical Markdown and required safety text. Opening or discussing it
 does not save, start, complete, or record an attempt.
 
-If get_ai_workouts is missing, stale, malformed, or unavailable, stop with one
+If get_ai_workouts or open_ai_workout is missing, stale, malformed, or
+unavailable, stop with one
 bounded update or reconnect recovery. Do not retry a failed recommendation with
 another need, mode, locale, or organization context. Do not fall back to
 get_coaching_methods, remembered workout content, a generated substitute, or a
