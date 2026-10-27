@@ -1,0 +1,442 @@
+{
+  "first-ai-use-case": {
+    "id": "5c48d90f-cf73-4031-b2b7-783331406c92",
+    "versionId": "bb4512f2-9bfe-417a-8a74-1c57ec3f5308",
+    "title": "Oldja meg a mai feladatot AI segítségével",
+    "expectedResult": "Kész kimenet a mai munkához és világos kép arról, mikor érdemes legközelebb korábban bevonni az AI-t.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "3c1bdc69f5b1708b531f31e33a9c56ad2deab8aa91f6c863a48af3f6ad545216",
+    "path": "references/workouts/hu/first-ai-use-case.md"
+  },
+  "bezpecne-pouzivani": {
+    "id": "617d9f46-44e4-452f-9c98-ba9f28afd151",
+    "versionId": "75727152-eff6-41fd-8cec-a130d4f6537a",
+    "title": "Tudja meg, mit tehet be az AI-ba: szabály az Ön fiókjához",
+    "expectedResult": "Szabály az Ön AI fiókjához forrásokkal, új csevegésben ellenőrizve, és az első valódi anyag, amelyet ennek megfelelően készítettek.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "ce0067b1225327e8db030485c97059f634f3c8c456cca59f0a155ef42f4aa272",
+    "path": "references/workouts/hu/bezpecne-pouzivani.md"
+  },
+  "when-chat-is-not-enough": {
+    "id": "d9b1501e-2ebc-4149-b5f4-9e734615b80b",
+    "versionId": "9404db70-cb38-4502-aabc-8ef99f0160a5",
+    "title": "Engedje be az AI-t a mappájába: amikor a sima chat nem elég",
+    "expectedResult": "Egy új fájl a feladat eredményével, amit a chatben nem tudott megoldani, és szabályok, amelyek alapján az AI legközelebb kiegészíti azt.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "4a0587b94769d3b9d785cac58a44584b2a595be961809254bd4083a0638b56c2",
+    "path": "references/workouts/hu/when-chat-is-not-enough.md"
+  },
+  "prace-s-daty": {
+    "id": "453de387-e49f-4a13-ab7a-a8a25c8033c9",
+    "versionId": "2251c0e4-b36b-47b2-86e8-6439ccadd44b",
+    "title": "Kérdezze adatait: az AI exportból számolja ki a választ",
+    "expectedResult": "Válasz az összes sor alapján, egy táblázatban ellenőrzött szám és elmentett folyamat a következő export számára.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "feb74036aa97728623fc33d6759fdb0b0266811255ddd7b49f04a92187fa7ba5",
+    "path": "references/workouts/hu/prace-s-daty.md"
+  },
+  "ai-wbs-project": {
+    "id": "41fd0db2-91a5-4e6e-afa9-507a3ff3fb17",
+    "versionId": "30d5e9f9-0413-4783-a340-30db794420c5",
+    "title": "Készítsen AI-WBS-t: projektterv emberekre és AI-ra bontva",
+    "expectedResult": "Projektmappában lévő terv, AI által elkészített első lépés és szabály, amellyel az AI jelöli a kész lépéseket.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "ec2b83e189ebd33462549a533060ba38317effea177936fa5d0480d1fec3ae06",
+    "path": "references/workouts/hu/ai-wbs-project.md"
+  },
+  "tvorba-prezentace": {
+    "id": "23e6644c-0fd5-4e4e-9f4c-430a6d87588d",
+    "versionId": "ba57f172-854f-44db-98a2-f69cf4a89b22",
+    "title": "Készítse el a prezentáció vázlatát: mit mondjon és mennyi időt szánjon rá",
+    "expectedResult": "Fő üzenet, részek pontos időbeosztással az Ön idejére szabva, céges sablonban készült diák és szabály a következő prezentációhoz.",
+    "minimumMinutes": 20,
+    "estimatedMinutes": 20,
+    "sha256": "6f572d765988ebdedae48c635efd3f6d75d3693185519a695f986d3f20da298d",
+    "path": "references/workouts/hu/tvorba-prezentace.md"
+  },
+  "asistent": {
+    "id": "2bf7ec90-25f8-4afb-8035-35f661512210",
+    "versionId": "dce78799-ad1c-44b4-8034-f5a0e2edf977",
+    "title": "Hozzon létre AI-projektet: háttéranyagok és utasítások minden chathez",
+    "expectedResult": "Egy adott témájú projekt utasításokkal és fájlokkal, amelyet új chatben ellenőriztek, valamint egy sor, amely alapján az AI jelzi a változásokat.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "1c679bf74594c3e139fd99367286456c5fee40760ef5049009ed74d387711d13",
+    "path": "references/workouts/hu/asistent.md"
+  },
+  "deep-research": {
+    "id": "b6b23cd9-6c4c-4988-94a7-3fbc4d60285c",
+    "versionId": "d6286cc6-2f07-4486-b5ee-d12c739de15d",
+    "title": "Végezzen Deep Research-t",
+    "expectedResult": "Deep Research forrásokkal, ellentmondásokkal és egyértelműen jelölt, ellenőrizetlen pontokkal.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "8d5b7103a48dc7008cbdae620b22bd9300e4dd34e44bb7b182775b61eae725b7",
+    "path": "references/workouts/hu/deep-research.md"
+  },
+  "kontrola-vysledku": {
+    "id": "08a0d07d-aefc-482c-a6c7-807175fdf6cd",
+    "versionId": "d263eeed-9941-403c-ac9f-0f9a7f6f3af2",
+    "title": "Ellenőrizze az AI kimenetet: számok és állítások az alapadatokkal szemben",
+    "expectedResult": "Javított kimenet, egy kulcsszám saját ellenőrzése az alapadatokban, és szabály a hiba okának megelőzésére.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "1bf9e9454ba5ba0ea910eaaccec5675f8812a2254c6b939c862283f82c8f7040",
+    "path": "references/workouts/hu/kontrola-vysledku.md"
+  },
+  "custom-instructions": {
+    "id": "bd4b2942-008d-471d-9329-b509436ae93e",
+    "versionId": "76f79bd7-c5b9-4930-a3f2-84961014e3d3",
+    "title": "Állítsa be a Custom Instructions-t: állandó utasítások minden csevegéshez",
+    "expectedResult": "Custom Instructions a beállításokban, valódi feladaton tesztelve, és utasítás, amellyel az AI megjegyzi a javításokat.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "4258547757f9a56aa0e8645eadb9b42cc0d26a13e983f5a34e3ad6c22dedf9d8",
+    "path": "references/workouts/hu/custom-instructions.md"
+  },
+  "pravidla-pro-tym": {
+    "id": "ef103259-fa71-4d02-8435-97adecc7470a",
+    "versionId": "8cfd54e7-4653-4aeb-a3f7-2062d85cd558",
+    "title": "Írjon csapatának AI-szabályokat: egy oldal kollégáknak és AI-juknak",
+    "expectedResult": "Az AI szabályzat oldala a csapat megosztott mappájában, útmutató, amely alapján az AI kollégák irányítják magukat, és egy új eset, amelyet ennek alapján oldottak meg.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "284a296dcbecd93ba2c2716a4a6bd5ccab75f5b0b254c668bcc6194a1a89da20",
+    "path": "references/workouts/hu/pravidla-pro-tym.md"
+  },
+  "modely": {
+    "id": "72400f16-e1d9-4238-adc3-c7efef980bf7",
+    "versionId": "8fadf0b0-17c6-4615-ba4d-28d922442f59",
+    "title": "Váltson modellt a feladat szerint: gyors a szűréshez, erős a döntéshez",
+    "expectedResult": "Két kész feladat, áttekintés a munkatípusokról és a megfelelő modellről, valamint emlékeztető a modellváltás idejéről.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "31c4e43c3fa8592195336c2decea5039cd37f817e5ffc951f5cb3f7c3833ed63",
+    "path": "references/workouts/hu/modely.md"
+  },
+  "panel-expertu": {
+    "id": "448bf4de-2429-4ea1-8c22-b9da85f0762f",
+    "versionId": "4d5fdcd1-5922-4b14-a974-5dd33e062c6c",
+    "title": "Hívjon össze szakértői panelt: AI-alapú opponálás",
+    "expectedResult": "Az új javaslat csak a jóváhagyott módosításokkal, jegyzőkönyv az indoklásokkal és az eljárás, amellyel legközelebb összehívja a panelt egy mondatban.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 20,
+    "sha256": "8c63acf0de1bc6ada79dcd8970f7c6bfe792a7137e42226e5234355f0cf7fc9c",
+    "path": "references/workouts/hu/panel-expertu.md"
+  },
+  "konverzace-do-struktury": {
+    "id": "5dd6d8da-69c1-4f8a-aaf1-a8c53637761d",
+    "versionId": "802b2ac9-b4b0-4c7b-8151-30b394a9a7e2",
+    "title": "Ülésátirat feldolgozása: döntések és feladatok a projekthez",
+    "expectedResult": "Egy olyan összefoglaló, amiből a kolléga megtudja, ki mit kell, hogy elvégezzen, a teljes átirat a dokumentumok között, és egy szabály a további ülésekhez.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "0b2dc651b20870a4508ae001661333e3703d2200816ab0b29c8540efba3cdfa1",
+    "path": "references/workouts/hu/konverzace-do-struktury.md"
+  },
+  "project-start-here": {
+    "id": "574668de-5498-4906-884f-01345da3438d",
+    "versionId": "2c3c6dfd-c72d-4eec-9753-79bfc485e0eb",
+    "title": "Készítsen README-t: a projekt kezdőoldala",
+    "expectedResult": "Projekt README, az AI által frissen tartott szabály, és ellenőrzés az új chatben.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "efd3f03be0a729ecfe23191b55e04468727c4fdc4dfb8a754291bdba3a7fd93c",
+    "path": "references/workouts/hu/project-start-here.md"
+  },
+  "create-skill-from-proven-process": {
+    "id": "baf15574-866c-40e2-a3eb-441540440365",
+    "versionId": "28fe7400-880c-4ea5-84b3-bc78ae99a4e4",
+    "title": "Készítsen skillt: útmutató, amit az AI megjegyez",
+    "expectedResult": "Egy rendszeres feladathoz készült skill, amely ott tárolódik, ahol az AI megtalálja, és a következő hasonló feladat egy mondattal kiadható.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "f2b1822a976dafda98278e5a43686dda9858be5abeb8b148fc91c16cf685a1a1",
+    "path": "references/workouts/hu/create-skill-from-proven-process.md"
+  },
+  "risk-based-prototyping": {
+    "id": "04590aea-aa96-4061-94cc-bd023483e977",
+    "versionId": "c13d3f00-c2c7-4e46-88af-6002d3ac1616",
+    "title": "Használja a vibe codingot: AI eszközt épít kollégáinak",
+    "expectedResult": "Egy megosztott mappában ellenőrzött eszköz egy ismert esetre, átadva egy kollégának, és szabály az árlista módosítására.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "74fbf96329e497fe5ab3b0844d535d13ed1161c021bf32b4316f673523e2ffb9",
+    "path": "references/workouts/hu/risk-based-prototyping.md"
+  },
+  "recurring-ai-task": {
+    "id": "53e54522-56ff-4cd6-925b-f1aff015ecfa",
+    "versionId": "8122e2d6-0a34-4e42-b5cf-eb40defd19b7",
+    "title": "Állítson be ismétlődő feladatot: az AI rendszeresen önállóan dolgozik",
+    "expectedResult": "Javított jelentés a mai adatok alapján és egy beállított ismétlődő feladat, amelynek első futási idejét és az eredmény helyét is ismeri.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "a128dca6e69ad2adfd09ee4d9a5626269464002414911d6f55ce6faa1bec9645",
+    "path": "references/workouts/hu/recurring-ai-task.md"
+  },
+  "team-adoption-cycle": {
+    "id": "3909921a-0b97-43ee-a98f-8c56ee2b643a",
+    "versionId": "e81c467a-8616-42bd-b269-333d9d7908e4",
+    "title": "Mutassa meg kollégáinak, mi működik Önnek az AI-val: tíz perc a megbeszélésen",
+    "expectedResult": "Bemutató forgatókönyv az Ön esetén és egy útmutató a kollégáknak, amelyet az AI a megbeszélés után a felmerült nehézségek alapján módosított.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "185883f9b4c8165acb9fc2a570739869a0fba902a6272e49e0bc99e94cea9bcf",
+    "path": "references/workouts/hu/team-adoption-cycle.md"
+  },
+  "ai-sprint": {
+    "id": "184ae8ab-e68d-4b4e-a828-60769ae2d7a9",
+    "versionId": "cc70b004-d38b-436a-9c03-3f98ad461c78",
+    "title": "Szervezzen AI sprintet: egy délután alatt kész, használható megoldás",
+    "expectedResult": "Feladatkiírás és csapathívó, a sprint után a csapat által használt megoldás, bejegyzés a worklogban és folyamat a következő alkalomra.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "ab5bb8e4ea6dc37daec84544c690e8480282d7fcc67328a15bd8d55d14b326e3",
+    "path": "references/workouts/hu/ai-sprint.md"
+  },
+  "voice-as-primary-ai-input": {
+    "id": "f4e1b5f8-97df-4ae2-89f6-548646d09653",
+    "versionId": "943e6f88-6fae-4ddd-82a0-7bd8fd448ec7",
+    "title": "Mondja be az AI-nak a feladatot: hang helyett írás",
+    "expectedResult": "Kész munka a bemondott és javított feladat alapján, valamint szabály, amely szerint az AI legközelebb először maga rendezi a diktálást.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "1dd05e3c66cfb6f22612ca2613e70cfd658a02cf04c46ef69706e1f702ec0b13",
+    "path": "references/workouts/hu/voice-as-primary-ai-input.md"
+  },
+  "pact-workspace": {
+    "id": "e6ac65d7-2413-4449-9a3d-2ee36d23ac21",
+    "versionId": "5f6e4e6c-e7bb-488f-b9b7-2da8a2112e04",
+    "title": "Hozzon létre PACT-ot: AI munkatér",
+    "expectedResult": "PACT mappa folyamatban lévő projektekkel, AI térképpel, hogy mi hol van, és ellenőrzés valós feladaton.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "f533ea4f4f50b46e01d20630c5ab3c2303957e77ba3e6ec46900c16ca30dcf8e",
+    "path": "references/workouts/hu/pact-workspace.md"
+  },
+  "project-worklog": {
+    "id": "efb4f162-b04b-4728-b983-b5a759797bc3",
+    "versionId": "16bda977-dbea-4770-8d7b-ba900a47ddbb",
+    "title": "Hozzon létre munkanaplót: projekt naplója",
+    "expectedResult": "Munkanapló az első bejegyzésekkel, szabály, amely szerint az AI munka után kiegészíti, és ellenőrzés az új chatben.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "6f4f47201fc1daf9b9c89ad712216e60bea31ef548f55fa17a3e54b3816c677d",
+    "path": "references/workouts/hu/project-worklog.md"
+  },
+  "agents-md": {
+    "id": "4c781875-3a84-4d3a-ba7f-8ac3d58d7819",
+    "versionId": "73ee6580-cf4e-4a62-8736-ed4778d092a2",
+    "title": "Hozzon létre AGENTS.md fájlt: AI szabályok egy helyen",
+    "expectedResult": "Egy szabályokat tartalmazó fájl, amelyet az AI minden munka elején elolvas, új csevegésben ellenőrizve.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "b8c016fb40d1d92d419a38fddb56d5f338dc1a46d687e067be92c1a98c17db2e",
+    "path": "references/workouts/hu/agents-md.md"
+  },
+  "plugin-connector": {
+    "id": "b39206bc-9b05-46df-b5ce-660b84b7c7f2",
+    "versionId": "50e0a6c5-b68c-421a-b671-e3ced8edbdc3",
+    "title": "Csatlakoztassa a csatlakozót: Az AI közvetlenül az alkalmazásaiban dolgozik",
+    "expectedResult": "Csatlakoztatott levelezés és naptár, elküldött válaszok a legfontosabb e-mailekre, és elmentett szabály a jövőre nézve.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "e5bab65ae7173d6f06c57e4dc7af3e17cbcd9f4fa2467b4f8f177c4f980bfa2a",
+    "path": "references/workouts/hu/plugin-connector.md"
+  },
+  "cross-app-workflow": {
+    "id": "c44b8907-36ec-4f2d-8ee9-e399a556944a",
+    "versionId": "c03e9c62-11b3-4f43-bb53-09f7a03946d5",
+    "title": "Állítson be többalkalmazásos munkafolyamatot: az AI átvisszi az adatokat helyetted",
+    "expectedResult": "Adatok átvitele egyik alkalmazásból a másikba, kapcsolódó e-mail tervezetek és a jövőbeli feladatok mentett leírása.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "81bf1cac011d12bd56700987cbfe4b1b42855deb3559ede6365ebbe12805960d",
+    "path": "references/workouts/hu/cross-app-workflow.md"
+  },
+  "browser-control": {
+    "id": "794f4724-bf19-4672-b36c-52e320aa1c14",
+    "versionId": "daf9c56e-d915-4a35-8d30-eaa933faf895",
+    "title": "Használja a Browser controlt: az AI kattint helyetted a böngészőben",
+    "expectedResult": "A webes feladat elkészül kattintás nélkül, az eredmény forrásoldalon ellenőrizve, a folyamat pedig elmentve a jövőre.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "d7b97e8652197646f4c1a2075ee76d72b04f7a8d4a07231d93c006a93c831a48",
+    "path": "references/workouts/hu/browser-control.md"
+  },
+  "computer-control": {
+    "id": "cc2adfbc-d3cd-438f-ae96-719a7f0dae86",
+    "versionId": "96521234-6da0-4678-8f17-e7b4a8de9af0",
+    "title": "Használja a Computer control-t: az AI vezérli helyetted a számítógépes programokat",
+    "expectedResult": "Egy programbeli feladat kész, kattintás nélkül, az idő összehasonlítása a kézi munkával, és elmentett eljárás a jövőre.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 20,
+    "sha256": "51cc8eaca0342ece422d9163e7d5848b9b2f8645a7544eeef214eee75d54e1f6",
+    "path": "references/workouts/hu/computer-control.md"
+  },
+  "tone-of-voice": {
+    "id": "25504faf-6e9e-4d4b-8f57-d3aac35b36a8",
+    "versionId": "441d4adf-58e8-43aa-a398-7dbba9669bad",
+    "title": "Mentse el a tone of voice-t: az írásstílusa fájlban",
+    "expectedResult": "Egy fájl az Ön stílusának szabályaival és példáival, valamint ugyanaz az e-mail fájl nélkül és fájllal, hogy lássa a különbséget.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "1342a9261a08f7b44f1dee74834837e663ec6e8faa17f30a4f7660c1af04320c",
+    "path": "references/workouts/hu/tone-of-voice.md"
+  },
+  "anti-slop": {
+    "id": "d9b9998d-dada-4c02-8acb-893a632a47d2",
+    "versionId": "dbbf72b0-9ce8-48bc-82bc-82293b737c70",
+    "title": "Futtassa át a szöveget anti-slop szűrővel: ne hangozzon AI által írottnak",
+    "expectedResult": "Küldésre kész szöveg, elmentett lista az elkerülendő fordulatokról, és szabály, amely alapján az AI a további szövegeket ellenőrzi.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "59435520de92c714c43200d47622f007457074e1b3cccf29d391fdfed9ea19d9",
+    "path": "references/workouts/hu/anti-slop.md"
+  },
+  "idea-file": {
+    "id": "00c15e2b-f3e7-464c-96d6-c408d3439fa0",
+    "versionId": "18ccc660-e6fb-4cea-a5fd-bc8fc6e8d664",
+    "title": "Készítsen idea file-t: ötlet egy oldalon",
+    "expectedResult": "Olyan idea file, amelyet egy másik AI ugyanúgy ért, mint ön, és egy szabály a jövőre: „készíts belőle idea file-t”.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "7b1c94fb8bfdbee382b713a9753809dc93160cde2deb35b6ad34eccfa35f42eb",
+    "path": "references/workouts/hu/idea-file.md"
+  },
+  "handoff": {
+    "id": "d789dae0-8c2a-4a75-9f86-715733d2038c",
+    "versionId": "d24d2c42-d1c4-46fc-9923-ed29b7994295",
+    "title": "Készítsen handoffot: folyamatban lévő munka átadása",
+    "expectedResult": "Olyan handoff, amely alapján az új chat kérdések nélkül folytatta a munkát, és egy szabály, amellyel legközelebb elég csak annyit írni, hogy „handoff”.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "74ea20888d6c56c53a05ece6c8453ba1cce97ab928ab837385c52f1c99dc5aea",
+    "path": "references/workouts/hu/handoff.md"
+  },
+  "agent-task": {
+    "id": "a9d6917c-29f7-4c53-a6a9-83e39f702f79",
+    "versionId": "ea1e88a2-d103-4986-9d16-c7d01795e285",
+    "title": "Adja meg a feladatot az ügynöknek: az AI önállóan végrehajtja",
+    "expectedResult": "Kész, hosszú feladat, amelyet bizonyítékok alapján vett át minden feltételhez, és szabály, hogy az AI legközelebb maga javasolja a feltételeket.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "fb65ed2d7f5a75ddd8770d704d209609ecdbc56ea3274ea17cdd167eabce3ef9",
+    "path": "references/workouts/hu/agent-task.md"
+  },
+  "web-page-output": {
+    "id": "dafeaecd-21fb-451f-a5c3-7bd24e9c3277",
+    "versionId": "d73859b6-642f-47e8-8cf8-1b26017ccd4e",
+    "title": "Küldj linket csatolmány helyett: AI által készített weboldal",
+    "expectedResult": "Az oldal a dokumentumodból, a link ellenőrizve telefonon és elküldve csatolmány helyett, valamint a megjelenési sablon elmentve a jövőre.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "78b94218229f46cb8477f0e53deb13a59778d7b83fa1b11d335b4c2ae9f0a84c",
+    "path": "references/workouts/hu/web-page-output.md"
+  },
+  "tokens-limits": {
+    "id": "43ad7c77-aa3f-4d65-a9cf-f449481c8081",
+    "versionId": "fa2a899a-5510-40ca-b590-8d22f17b8ad6",
+    "title": "Tokeneket takarítson meg: tartson ki az AI-korlát egész héten",
+    "expectedResult": "Folyamatban lévő munka egy új, rövid csevegésben és szabályok, amelyek szerint az AI maga takarékoskodik a tokenekkel.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "9bad6ade32a03c4f3762d4a2561a7ed7186742863d57cfa272a8896e668240fd",
+    "path": "references/workouts/hu/tokens-limits.md"
+  },
+  "weekly-ai-review": {
+    "id": "658f51cc-9ed8-4db8-911e-f6bb0f5a95aa",
+    "versionId": "e37893a1-8da4-48b2-8ddb-9ed218f338ec",
+    "title": "Állítson be heti ellenőrzést: az AI-beállításai rendbetétele",
+    "expectedResult": "Az első ellenőrzés jelentése, az ismétlődő hiba javítása új csevegésben ellenőrizve, és az ellenőrzés minden péntekre ütemezve.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "1a300881477e67f832887766c6126034ed6ebe2eccfa9fa3f3bb887467305fa8",
+    "path": "references/workouts/hu/weekly-ai-review.md"
+  },
+  "how-ai-works": {
+    "id": "4bfb7d7c-8e98-4560-a516-27cd7d86275e",
+    "versionId": "ff799ee7-3ea8-4271-b621-5652601b4876",
+    "title": "Ismerje meg, hogyan működik az AI: mikor bízhat benne, és mikor ellenőrizze a választ",
+    "expectedResult": "A heti feladat jobb verziója, az Ön által forrásból talált szám, és az AI memóriájában tárolt szabály.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 20,
+    "sha256": "0829c0da197b91ae45e7c85c31094422815e0cb76dc2258bfb22b5104045ab02",
+    "path": "references/workouts/hu/how-ai-works.md"
+  },
+  "ai-memory": {
+    "id": "15110c30-6360-4eba-b408-f8b973e5dfe0",
+    "versionId": "429cd4c3-a0f4-415c-9688-ee47ced0ef49",
+    "title": "Rendezze rendbe az AI memóriáját: mit jegyez meg önről a beszélgetések között",
+    "expectedResult": "Memória elavult és duplikált adatok nélkül, új beszélgetésben ellenőrizve, valamint szabály az AI javításainak rögzítésére.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "8f1aa2b541f85aa4436fef933847102685d74ec8ce58b9d7897e56541bac73c2",
+    "path": "references/workouts/hu/ai-memory.md"
+  },
+  "ai-disclosure": {
+    "id": "01b00d56-761c-4897-a3e4-bba3d45b5bfc",
+    "versionId": "547ae28e-75fc-41bb-bfef-d4ffbaba4284",
+    "title": "Adja meg, miben segített az AI: ügyfélnek szóló mondat a vállalati szabályok szerint",
+    "expectedResult": "Küldésre kész szöveg, tisztán a vállalati AI-szabályok, és utasítás, amely alapján az AI legközelebb maga javasolja a mondatot.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "cddd5d45618b124a578d5139d88082dfa6612b318a1a0739042b3410e9a8313b",
+    "path": "references/workouts/hu/ai-disclosure.md"
+  },
+  "agent-permissions": {
+    "id": "38b22a41-4291-463e-8b0d-bfc173a93e53",
+    "versionId": "b565c3e6-c47a-47f4-91ec-287a45eea0a7",
+    "title": "Állítsa be az ügynök jogosultságait: mit tehet önállóan, és mit soha Ön nélkül",
+    "expectedResult": "A kiválasztott jogosultsági mód, az AI szabályfájljában rögzített kemény határok és annak ellenőrzése egy valós feladaton, hogy az AI betartja őket.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "54f495271766e43a76d7eecc50f899b05ffad0852ad61b8f03f4324ebe08d074",
+    "path": "references/workouts/hu/agent-permissions.md"
+  },
+  "live-web-data": {
+    "id": "8969b5d0-8482-4185-91ab-008327c96c55",
+    "versionId": "b4a51747-e63e-4b4f-bb7c-0231f07ed77b",
+    "title": "Hagyja, hogy az AI letöltse az élő adatokat: aktuális számok forrással és dátummal",
+    "expectedResult": "Az Ön feladatához illeszkedő számokat tartalmazó táblázat, a legfontosabbak forrásellenőrzéssel és az AI által legközelebb egy mondatban végrehajtandó folyamattal.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "239ca69e4df7694e117875c5d791599c6af1568538acb8bcb6dbe9d9dc01269f",
+    "path": "references/workouts/hu/live-web-data.md"
+  },
+  "parallel-ai-workstreams": {
+    "id": "be77c092-129c-490e-a122-a1d56a92f705",
+    "versionId": "4ab24e58-8057-49e2-a930-fd13db31b0f9",
+    "title": "Ossza fel a munkát párhuzamos szálakra: az AI egyszerre végzi az összes részt",
+    "expectedResult": "Kész nagyobb munka párhuzamos szálakból, összehasonlítás a döntéseivel és szabály a következő felosztáshoz.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "e86395715bc1dd1dc90bc05e18bb220a7f3347cbf504619a9fffc1eb90fc292f",
+    "path": "references/workouts/hu/parallel-ai-workstreams.md"
+  },
+  "hooks": {
+    "id": "a9a22bdc-ed72-409e-8f73-e377b9f41616",
+    "versionId": "25291457-f3e0-425b-b82b-e256abcc8bd6",
+    "title": "Állítsa be a hookot: dokumentumellenőrzés, amit az AI nem hagy ki",
+    "expectedResult": "Hook az Ön szabályai szerinti ellenőrzéssel, régebbi dokumentumokban talált hibákkal és az ellenőrzés eredményével minden munka után.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "f08d118fa04860e7bd9a4192691b6aa905d00c553f6db3e14af2e75999eb960a",
+    "path": "references/workouts/hu/hooks.md"
+  },
+  "agent-work-status": {
+    "id": "d686aada-d48b-4440-9fc7-391bdaa0f952",
+    "versionId": "f35c8cf0-a3d0-4629-98d5-5e16a723321a",
+    "title": "Hagyja, hogy az AI rögzítse a feladatok állapotát: a kolléga tudja, hol tart a munkája",
+    "expectedResult": "Egy munka végigvitele a feladat létrehozásától a lezárásig, bejegyzés a munkanaplóban és egy szabály, amely szerint az AI ezt mindig elvégzi.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "5a5ad89a5224ab90ba16f0a10bf73581fad15a32348b3bf9a558046e98cd4edd",
+    "path": "references/workouts/hu/agent-work-status.md"
+  }
+}

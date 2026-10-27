@@ -1,0 +1,442 @@
+{
+  "first-ai-use-case": {
+    "id": "5c48d90f-cf73-4031-b2b7-783331406c92",
+    "versionId": "bb4512f2-9bfe-417a-8a74-1c57ec3f5308",
+    "title": "Riešte dnešnú úlohu s AI",
+    "expectedResult": "Hotový výstup pre dnešnú prácu a jasná predstava, kedy nabudúce zapojiť AI skôr.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "fed116496a4aab34ef16a09fc6ef6d402446a5e861b014a917d77dc2318dc9b6",
+    "path": "references/workouts/sk/first-ai-use-case.md"
+  },
+  "bezpecne-pouzivani": {
+    "id": "617d9f46-44e4-452f-9c98-ba9f28afd151",
+    "versionId": "75727152-eff6-41fd-8cec-a130d4f6537a",
+    "title": "Zistite, čo smiete vložiť do AI: pravidlo pre váš účet",
+    "expectedResult": "Pravidlo pre váš AI účet so zdrojmi, overené v novom chate, a prvý skutočný podklad pripravený podľa neho.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "6d8cf8bdf761e76f624237c3937f29191adf0fbaeae2bb457f8476b986d01c31",
+    "path": "references/workouts/sk/bezpecne-pouzivani.md"
+  },
+  "when-chat-is-not-enough": {
+    "id": "d9b1501e-2ebc-4149-b5f4-9e734615b80b",
+    "versionId": "9404db70-cb38-4502-aabc-8ef99f0160a5",
+    "title": "Pustite AI do svojej zložky: keď bežný chat nestačí",
+    "expectedResult": "Nový súbor s výsledkom úlohy, ktorú v chate nebolo možné vyriešiť, a pravidlá, podľa ktorých ho AI nabudúce doplní.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "45cb19ff97effb53cde8ad912c7705f691addba72c3eec5ec1b00c89e90ae3d7",
+    "path": "references/workouts/sk/when-chat-is-not-enough.md"
+  },
+  "prace-s-daty": {
+    "id": "453de387-e49f-4a13-ab7a-a8a25c8033c9",
+    "versionId": "2251c0e4-b36b-47b2-86e8-6439ccadd44b",
+    "title": "Opýtajte sa svojich dát: AI vypočíta odpoveď z exportu",
+    "expectedResult": "Odpoveď zo všetkých riadkov, jedno číslo overené v tabuľke a uložený postup s vetou na ďalší export.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "0d9e8855fe911007235a85b92ff812b5a7fd20d4d5475533c34f0b084add7181",
+    "path": "references/workouts/sk/prace-s-daty.md"
+  },
+  "ai-wbs-project": {
+    "id": "41fd0db2-91a5-4e6e-afa9-507a3ff3fb17",
+    "versionId": "30d5e9f9-0413-4783-a340-30db794420c5",
+    "title": "Vytvorte si AI-WBS: plán projektu rozdelený medzi ľudí a AI",
+    "expectedResult": "Plán v priečinku projektu, prvý krok hotový od AI a pravidlo, podľa ktorého AI označí hotové kroky.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "01fc17aa310f4cf93a6c836d7bc57cbc35c829cdc9cea5fef29907ab92642d49",
+    "path": "references/workouts/sk/ai-wbs-project.md"
+  },
+  "tvorba-prezentace": {
+    "id": "23e6644c-0fd5-4e4e-9f4c-430a6d87588d",
+    "versionId": "ba57f172-854f-44db-98a2-f69cf4a89b22",
+    "title": "Pripravte si osnovu prezentácie: čo povedať a koľko minút na čo",
+    "expectedResult": "Hlavné posolstvo, časti s minútami presne na váš čas, slajdy v šablóne firmy a pravidlo pre ďalšiu prezentáciu.",
+    "minimumMinutes": 20,
+    "estimatedMinutes": 20,
+    "sha256": "a836a2d4fe923f96f45b0fbe37ed4c20599cb4b3d662d0cf3a1eccfe3f82c9c2",
+    "path": "references/workouts/sk/tvorba-prezentace.md"
+  },
+  "asistent": {
+    "id": "2bf7ec90-25f8-4afb-8035-35f661512210",
+    "versionId": "dce78799-ad1c-44b4-8034-f5a0e2edf977",
+    "title": "Založte si projekt v AI: podklady a pokyny pre každý chat",
+    "expectedResult": "Projekt k jednej téme s pokynmi a súbormi, overený v novom chate, a riadok, podľa ktorého AI hlási zmeny.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "ae497e685492588ccf82591fa66c87b851e6a6e2f5cc10924cff621cd00f7cff",
+    "path": "references/workouts/sk/asistent.md"
+  },
+  "deep-research": {
+    "id": "b6b23cd9-6c4c-4988-94a7-3fbc4d60285c",
+    "versionId": "d6286cc6-2f07-4486-b5ee-d12c739de15d",
+    "title": "Urobte Deep Research",
+    "expectedResult": "Deep Research so zdrojmi, rozporami a jasne označenými miestami, ktoré sa nepodarilo overiť.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "64f49fca0c99673f669608f35c7a7b2a0ce364a3a9956a2c11d4230fa41b0ccb",
+    "path": "references/workouts/sk/deep-research.md"
+  },
+  "kontrola-vysledku": {
+    "id": "08a0d07d-aefc-482c-a6c7-807175fdf6cd",
+    "versionId": "d263eeed-9941-403c-ac9f-0f9a7f6f3af2",
+    "title": "Skontrolujte výstup AI: čísla a tvrdenia proti podkladom",
+    "expectedResult": "Opravený výstup, jedno kľúčové číslo overené vlastným pohľadom do podkladu a pravidlo proti príčine chyby.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "c8e1d1113420c6eb753cd2888b6a2702bdb26e95e936d2aca42e6726203bf936",
+    "path": "references/workouts/sk/kontrola-vysledku.md"
+  },
+  "custom-instructions": {
+    "id": "bd4b2942-008d-471d-9329-b509436ae93e",
+    "versionId": "76f79bd7-c5b9-4930-a3f2-84961014e3d3",
+    "title": "Nastavte si Custom Instructions: stály pokyn pre každý chat",
+    "expectedResult": "Custom Instructions v nastavení, overené na reálnom úlohe, a pokyn, vďaka ktorému si AI pamätá opravy.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "ca1404f22bfe1fa6a4d37d8642392dc8236c3187e3f9da1716d4c0562ed59b97",
+    "path": "references/workouts/sk/custom-instructions.md"
+  },
+  "pravidla-pro-tym": {
+    "id": "ef103259-fa71-4d02-8435-97adecc7470a",
+    "versionId": "8cfd54e7-4653-4aeb-a3f7-2062d85cd558",
+    "title": "Sepíšte tímu pravidlá pre AI: jedna stránka pre kolegov aj ich AI",
+    "expectedResult": "Stránka pravidiel AI v zdieľanej zložke tímu, pokyn, podľa ktorého sa ňou riadi AI kolegov, a nový prípad vyriešený podľa nej.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "3452d8815ea81f222549e197d0c52bd319d8d30bc356acf2e67484c30cf08e48",
+    "path": "references/workouts/sk/pravidla-pro-tym.md"
+  },
+  "modely": {
+    "id": "72400f16-e1d9-4238-adc3-c7efef980bf7",
+    "versionId": "8fadf0b0-17c6-4615-ba4d-28d922442f59",
+    "title": "Prepínajte model podľa úlohy: rýchly na triedenie, silný na rozhodnutie",
+    "expectedResult": "Dve hotové úlohy, prehľad typov práce s vhodným modelom a pripomienka, kedy model prepnúť.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "2eb19fc7cdda73402375d74bbfd5000639a414bd2210304fd71dc0f67196acfc",
+    "path": "references/workouts/sk/modely.md"
+  },
+  "panel-expertu": {
+    "id": "448bf4de-2429-4ea1-8c22-b9da85f0762f",
+    "versionId": "4d5fdcd1-5922-4b14-a974-5dd33e062c6c",
+    "title": "Zvolajte si expert panel: oponentúra od AI",
+    "expectedResult": "Nová verzia návrhu len s prijatými zmenami, zápis s dôvodmi a postup, s ktorým panel nabudúce zvoláte jednou vetou.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 20,
+    "sha256": "7db8648bdd199730d9ae252d7c36105a008ac182f6b8b80bf4ce65597dc7ada4",
+    "path": "references/workouts/sk/panel-expertu.md"
+  },
+  "konverzace-do-struktury": {
+    "id": "5dd6d8da-69c1-4f8a-aaf1-a8c53637761d",
+    "versionId": "802b2ac9-b4b0-4c7b-8151-30b394a9a7e2",
+    "title": "Spracujte prepis stretnutia: rozhodnutia a úlohy k projektu",
+    "expectedResult": "Zápis, z ktorého kolega zistí, kto má čo urobiť, celý prepis medzi podkladmi a pravidlo pre ďalšie stretnutia.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "a518b9eb864aa00c4cb3ec0a363b58c6938704b40ff805ba7e0a2a123787a578",
+    "path": "references/workouts/sk/konverzace-do-struktury.md"
+  },
+  "project-start-here": {
+    "id": "574668de-5498-4906-884f-01345da3438d",
+    "versionId": "2c3c6dfd-c72d-4eec-9753-79bfc485e0eb",
+    "title": "Vytvorte si README: úvodná stránka projektu",
+    "expectedResult": "README projektu, pravidlo, podľa ktorého ho AI udržiava aktuálne, a overenie v novom chate.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "27b43cba13ed657976b633abcc6bbe992f22fa8443ad5122c853ce2b1250e957",
+    "path": "references/workouts/sk/project-start-here.md"
+  },
+  "create-skill-from-proven-process": {
+    "id": "baf15574-866c-40e2-a3eb-441540440365",
+    "versionId": "28fe7400-880c-4ea5-84b3-bc78ae99a4e4",
+    "title": "Vytvorte si skill: návod, ktorý si AI pamätá",
+    "expectedResult": "Skill na pravidelnú úlohu, uložený tam, kde ho AI nájde, a ďalšia úloha rovnakého druhu zadaná jednou vetou.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "641ac8440a630705f4e1d4e64e1bc731898e10f5861015a154f5f017cdeacc9f",
+    "path": "references/workouts/sk/create-skill-from-proven-process.md"
+  },
+  "risk-based-prototyping": {
+    "id": "04590aea-aa96-4061-94cc-bd023483e977",
+    "versionId": "c13d3f00-c2c7-4e46-88af-6002d3ac1616",
+    "title": "Použite vibe coding: AI postaví nástroj pre vašich kolegov",
+    "expectedResult": "Nástroj v zdieľanej zložke overený na známom prípade, odovzdaný kolegovi a pravidlo pre zmenu cenníka.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "de85c30a968b0ef704611fd16836687fce4eeee495f6a505e8ced28d471a4471",
+    "path": "references/workouts/sk/risk-based-prototyping.md"
+  },
+  "recurring-ai-task": {
+    "id": "53e54522-56ff-4cd6-925b-f1aff015ecfa",
+    "versionId": "8122e2d6-0a34-4e42-b5cf-eb40defd19b7",
+    "title": "Nastavte si naplánovanú úlohu: AI pracuje sama v pravidelný čas",
+    "expectedResult": "Opravený prehľad z dnešných dát a naplánovaná úloha, o ktorej viete, kedy sa prvýkrát spustí a kde nájdete výsledok.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "8d55fcde40d3c23e2336ab4ba51df5c795356b0160b2dfe1c796c2fe12b2cf12",
+    "path": "references/workouts/sk/recurring-ai-task.md"
+  },
+  "team-adoption-cycle": {
+    "id": "3909921a-0b97-43ee-a98f-8c56ee2b643a",
+    "versionId": "e81c467a-8616-42bd-b269-333d9d7908e4",
+    "title": "Ukážte kolegom, čo vám s AI funguje: desať minút na porade",
+    "expectedResult": "Scenár ukážky na vašom prípade a postup s návodom pre kolegov, ktorý AI po porade upravila podľa toho, kde sa zasekli.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "24a333784c3fd8101cd973e00563d8ac9a103f8511c9f2e5278dbd43c70e03de",
+    "path": "references/workouts/sk/team-adoption-cycle.md"
+  },
+  "ai-sprint": {
+    "id": "184ae8ab-e68d-4b4e-a828-60769ae2d7a9",
+    "versionId": "cc70b004-d38b-436a-9c03-3f98ad461c78",
+    "title": "Usporiadajte AI sprint: za popoludnie hotová vec, ktorú tím používa",
+    "expectedResult": "Zadanie a pozvánka pre tím, po sprinte vec, ktorú tím používa, záznam vo worklogu a postup na ďalší raz.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "fb1b6667b849954d27afa1f5cb9a2e51ba54e9e3c7a46b231b3c87a507891a73",
+    "path": "references/workouts/sk/ai-sprint.md"
+  },
+  "voice-as-primary-ai-input": {
+    "id": "f4e1b5f8-97df-4ae2-89f6-548646d09653",
+    "versionId": "943e6f88-6fae-4ddd-82a0-7bd8fd448ec7",
+    "title": "Nadiktujte AI zadanie: hlas namiesto písania",
+    "expectedResult": "Hotová práca z nadiktovaného a opraveného zadania a pravidlo, podľa ktorého AI nabudúce diktovanie najskôr sama usporiada.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "abc1983f191dc7dbdcfd82a0b813c90aa68360d27aa191ad303a03315c5f3ee8",
+    "path": "references/workouts/sk/voice-as-primary-ai-input.md"
+  },
+  "pact-workspace": {
+    "id": "e6ac65d7-2413-4449-9a3d-2ee36d23ac21",
+    "versionId": "5f6e4e6c-e7bb-488f-b9b7-2da8a2112e04",
+    "title": "Založte si PACT: pracovný priestor pre AI",
+    "expectedResult": "Zložka PACT s rozpracovanými projektmi, mapa pre AI, čo kde leží, a overenie na skutočnej úlohe.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "86ac6f1b9897dbdc9bdbed772a284e8cf5fbad480f862ef2cdb68056672d1a3c",
+    "path": "references/workouts/sk/pact-workspace.md"
+  },
+  "project-worklog": {
+    "id": "efb4f162-b04b-4728-b983-b5a759797bc3",
+    "versionId": "16bda977-dbea-4770-8d7b-ba900a47ddbb",
+    "title": "Založte si worklog: denník projektu",
+    "expectedResult": "Worklog s prvými záznamami, pravidlo, podľa ktorého ho AI po práci doplní, a overenie v novom chate.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "9b6685e81d830d35d2e0205f8f2e3c374a622646fde884df5d74597eddc21c8a",
+    "path": "references/workouts/sk/project-worklog.md"
+  },
+  "agents-md": {
+    "id": "4c781875-3a84-4d3a-ba7f-8ac3d58d7819",
+    "versionId": "73ee6580-cf4e-4a62-8736-ed4778d092a2",
+    "title": "Založte si AGENTS.md: pravidlá pre AI v jednom súbore",
+    "expectedResult": "Súbor s vašimi pravidlami, ktorý AI číta na začiatku každej práce, overený v novom chate.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "c144911a546b0ff378314e9bdc9e5ac5c65814eb7f6256169fdd47578a5f8ec8",
+    "path": "references/workouts/sk/agents-md.md"
+  },
+  "plugin-connector": {
+    "id": "b39206bc-9b05-46df-b5ce-660b84b7c7f2",
+    "versionId": "50e0a6c5-b68c-421a-b671-e3ced8edbdc3",
+    "title": "Pripojte si konektor: AI pracuje priamo vo vašich aplikáciách",
+    "expectedResult": "Pripojená pošta a kalendár, odoslané odpovede na najnaliehavejšie e-maily a uložené pravidlo pre ďalšie použitie.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "6a441c0dd7fe593b3229c3c5154d45e5dbf2fa4082f646bf84b72f7d41822a73",
+    "path": "references/workouts/sk/plugin-connector.md"
+  },
+  "cross-app-workflow": {
+    "id": "c44b8907-36ec-4f2d-8ee9-e399a556944a",
+    "versionId": "c03e9c62-11b3-4f43-bb53-09f7a03946d5",
+    "title": "Nastavte workflow cez viac aplikácií: AI za vás prenesie dáta",
+    "expectedResult": "Dáta prenesené z jednej aplikácie do druhej, koncepty nadväzujúcich e-mailov a uložené zadanie na ďalšie použitie.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "fc5e9f18d5036d137033b19e003c1a3302fc07acb087e7fc3d691c8af8b0cad8",
+    "path": "references/workouts/sk/cross-app-workflow.md"
+  },
+  "browser-control": {
+    "id": "794f4724-bf19-4672-b36c-52e320aa1c14",
+    "versionId": "daf9c56e-d915-4a35-8d30-eaa933faf895",
+    "title": "Použite Browser control: AI za vás kliká v prehliadači",
+    "expectedResult": "Webová úloha hotová bez vášho klikania, výsledok overený na zdrojovej stránke a postup uložený pre ďalšie použitie.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "89a20c118a66fb0a026db1921d26d7d1fdcccf22021a8379f2de1cb63f1f26b2",
+    "path": "references/workouts/sk/browser-control.md"
+  },
+  "computer-control": {
+    "id": "cc2adfbc-d3cd-438f-ae96-719a7f0dae86",
+    "versionId": "96521234-6da0-4678-8f17-e7b4a8de9af0",
+    "title": "Použite Computer control: AI za vás ovláda programy v počítači",
+    "expectedResult": "Úloha v programe bez konektora hotová bez klikania, porovnanie času s ručnou prácou a uložený postup na ďalšie použitie.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 20,
+    "sha256": "92ffe8ef2d360e87f7b28b7c14be052316180abbfedd776ab437ea5fd58c044c",
+    "path": "references/workouts/sk/computer-control.md"
+  },
+  "tone-of-voice": {
+    "id": "25504faf-6e9e-4d4b-8f57-d3aac35b36a8",
+    "versionId": "441d4adf-58e8-43aa-a398-7dbba9669bad",
+    "title": "Uložte si tone of voice: váš štýl písania v súbore",
+    "expectedResult": "Súbor s pravidlami a ukážkami vášho štýlu a rovnaký e-mail bez neho a s ním, aby ste videli rozdiel.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "2a34f72c81597f1d81597b97bdc3f5b7157b6bae732c0a37c5dcbe497f9fc1cc",
+    "path": "references/workouts/sk/tone-of-voice.md"
+  },
+  "anti-slop": {
+    "id": "d9b9998d-dada-4c02-8acb-893a632a47d2",
+    "versionId": "dbbf72b0-9ce8-48bc-82bc-82293b737c70",
+    "title": "Prejdite text anti-slopom: nech neznie ako od AI",
+    "expectedResult": "Text pripravený na odoslanie, uložený zoznam fráz, ktoré nechcete, a pravidlo, podľa ktorého AI kontroluje ďalšie texty.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "9206dfbdf68c5952c5edce76235c2f71295551a4d5615db51a06c937c7fe2711",
+    "path": "references/workouts/sk/anti-slop.md"
+  },
+  "idea-file": {
+    "id": "00c15e2b-f3e7-464c-96d6-c408d3439fa0",
+    "versionId": "18ccc660-e6fb-4cea-a5fd-bc8fc6e8d664",
+    "title": "Pripravte idea file: nápad na jednej stránke",
+    "expectedResult": "Idea file, ktorý iná AI pochopila rovnako ako vy, a pravidlo na budúce: „urob z toho idea file“.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "86db4a2b4d7920ad40425b72fa79165697b4f040846472a8ae4d1f64a9018a23",
+    "path": "references/workouts/sk/idea-file.md"
+  },
+  "handoff": {
+    "id": "d789dae0-8c2a-4a75-9f86-715733d2038c",
+    "versionId": "d24d2c42-d1c4-46fc-9923-ed29b7994295",
+    "title": "Pripravte handoff: odovzdanie rozpracovanej práce",
+    "expectedResult": "Handoff, podľa ktorého nový chat pokračoval bez dopĺňania, a pravidlo, vďaka ktorému nabudúce stačí napísať „handoff“.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "047708d606397202d4bc0554e38ee354f8131e0c4bb02c8dcef0c732fb0646f7",
+    "path": "references/workouts/sk/handoff.md"
+  },
+  "agent-task": {
+    "id": "a9d6917c-29f7-4c53-a6a9-83e39f702f79",
+    "versionId": "ea1e88a2-d103-4986-9d16-c7d01795e285",
+    "title": "Zadajte úlohu agentovi: AI ju dokončí sama",
+    "expectedResult": "Hotová dlhá úloha prevzatá podľa dôkazu ku každej podmienke a pravidlo, aby AI nabudúce podmienky navrhla sama.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "8b1e2279d2f1274aa2f7cefeb0723020cdd3c795759504ccf7166232de244c77",
+    "path": "references/workouts/sk/agent-task.md"
+  },
+  "web-page-output": {
+    "id": "dafeaecd-21fb-451f-a5c3-7bd24e9c3277",
+    "versionId": "d73859b6-642f-47e8-8cf8-1b26017ccd4e",
+    "title": "Pošlite odkaz namiesto prílohy: webová stránka od AI",
+    "expectedResult": "Stránka z vášho dokumentu, odkaz overený v telefóne a poslaný namiesto prílohy a šablóna vzhľadu uložená na ďalšie použitie.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "9173bf2cf4386e990f4f4d8771c2fc2524cfb9e77e6dde498324c81b47ad9afb",
+    "path": "references/workouts/sk/web-page-output.md"
+  },
+  "tokens-limits": {
+    "id": "43ad7c77-aa3f-4d65-a9cf-f449481c8081",
+    "versionId": "fa2a899a-5510-40ca-b590-8d22f17b8ad6",
+    "title": "Šetrite tokeny: nech vám limit AI vydrží celý týždeň",
+    "expectedResult": "Rozpracovaná práca v novom krátkom chate a pravidlá, podľa ktorých AI šetrí tokeny sama.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "0eb9da14e07c98ad746c963a2d73d9e98ace37157b4fb360db9a9681e24b99fb",
+    "path": "references/workouts/sk/tokens-limits.md"
+  },
+  "weekly-ai-review": {
+    "id": "658f51cc-9ed8-4db8-911e-f6bb0f5a95aa",
+    "versionId": "e37893a1-8da4-48b2-8ddb-9ed218f338ec",
+    "title": "Zaveďte si týždennú revíziu: upracte si svoje AI nastavenia",
+    "expectedResult": "Report z prvej revízie, oprava opakovaného zádrheľa overená v novom chate a revízia naplánovaná na každý piatok.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "233fd176cb49e23c0d5b5aca431134bea248a8e09290c860f939b4e864b327fe",
+    "path": "references/workouts/sk/weekly-ai-review.md"
+  },
+  "how-ai-works": {
+    "id": "4bfb7d7c-8e98-4560-a516-27cd7d86275e",
+    "versionId": "ff799ee7-3ea8-4271-b621-5652601b4876",
+    "title": "Spoznajte, ako AI funguje: kedy jej veriť a kedy si odpoveď overiť",
+    "expectedResult": "Lepšia verzia úlohy na tento týždeň, číslo, ktoré ste sami našli v zdroji, a vaše pravidlo v pamäti AI.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 20,
+    "sha256": "6ac4ccf930081416907d0f80b242d1968686e6080cfadf552329fe8ebcc15a66",
+    "path": "references/workouts/sk/how-ai-works.md"
+  },
+  "ai-memory": {
+    "id": "15110c30-6360-4eba-b408-f8b973e5dfe0",
+    "versionId": "429cd4c3-a0f4-415c-9688-ee47ced0ef49",
+    "title": "Upracte si pamäť AI: čo si o vás pamätá medzi chatmi",
+    "expectedResult": "Pamäť bez zastaraných a duplicitných záznamov, overená v novom chate, a pravidlo, ako do nej AI zapisuje opravy.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "bd62f59f7db0df4ed90d9e6a5dbf8b330f8cffb8889b730b7e680a33f10521e3",
+    "path": "references/workouts/sk/ai-memory.md"
+  },
+  "ai-disclosure": {
+    "id": "01b00d56-761c-4897-a3e4-bba3d45b5bfc",
+    "versionId": "547ae28e-75fc-41bb-bfef-d4ffbaba4284",
+    "title": "Uveďte, s čím vám pomohla AI: veta pre klienta podľa pravidiel firmy",
+    "expectedResult": "Text pripravený na odoslanie, jasnosť v pravidlách firmy pre AI a pokyn, podľa ktorého AI vetu nabudúce navrhne sama.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "ef5d8b0e1fba21296f46575c2a9d7bcd701b44010e2b4d5454b21ac8876b813d",
+    "path": "references/workouts/sk/ai-disclosure.md"
+  },
+  "agent-permissions": {
+    "id": "38b22a41-4291-463e-8b0d-bfc173a93e53",
+    "versionId": "b565c3e6-c47a-47f4-91ec-287a45eea0a7",
+    "title": "Nastavte agentovi oprávnenia: čo smie sám a čo nikdy bez vás",
+    "expectedResult": "Zvolený režim oprávnení, tvrdé hranice v súbore s pravidlami pre AI a overenie na reálnej úlohe, že AI ich dodrží.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "27a9c0e3240243b7639949cc8686eae59e13099fb534256633f363b7243a7638",
+    "path": "references/workouts/sk/agent-permissions.md"
+  },
+  "live-web-data": {
+    "id": "8969b5d0-8482-4185-91ab-008327c96c55",
+    "versionId": "b4a51747-e63e-4b4f-bb7c-0231f07ed77b",
+    "title": "Nechajte AI stiahnuť živé dáta: aktuálne čísla so zdrojom a dátumom",
+    "expectedResult": "Tabuľka čísel k vašej úlohe, to najdôležitejšie overené v zdroji a postup, ktorý AI nabudúce spustí na jednu vetu.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "2621517a6bd2f80cb518c73a36361a30b8bf910ad90235fec3e4e4345cb73d41",
+    "path": "references/workouts/sk/live-web-data.md"
+  },
+  "parallel-ai-workstreams": {
+    "id": "be77c092-129c-490e-a122-a1d56a92f705",
+    "versionId": "4ab24e58-8057-49e2-a930-fd13db31b0f9",
+    "title": "Rozdeľte prácu do paralelných vlákien: AI robí všetky časti naraz",
+    "expectedResult": "Hotová väčšia práca zo súbežných vlákien, porovnanie s vašimi rozhodnutiami a pravidlo pre ďalšie delenie.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "bfd839fb3d4c29d9de8e8f83ccb234f9ea7c629739a91cae4055fd560b881127",
+    "path": "references/workouts/sk/parallel-ai-workstreams.md"
+  },
+  "hooks": {
+    "id": "a9a22bdc-ed72-409e-8f73-e377b9f41616",
+    "versionId": "25291457-f3e0-425b-b82b-e256abcc8bd6",
+    "title": "Nastavte si hook: kontrola dokumentov, ktorú AI nevynechá",
+    "expectedResult": "Hook s kontrolou podľa vašich pravidiel, nálezy v starších dokumentoch a výsledok kontroly po každej práci.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "aeebce96b93c84e2a3673339f27f3eff2e100df896036f353123958b0ff54b3b",
+    "path": "references/workouts/sk/hooks.md"
+  },
+  "agent-work-status": {
+    "id": "d686aada-d48b-4440-9fc7-391bdaa0f952",
+    "versionId": "f35c8cf0-a3d0-4629-98d5-5e16a723321a",
+    "title": "Nechajte AI zapisovať stav úloh: kolega vie, kde je vaša práca",
+    "expectedResult": "Jedna práca dotiahnutá od založenia úlohy po uzavretie, záznam v worklogu a pravidlo, podľa ktorého to AI robí vždy.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "b00d1b2df5153c5a365b8ebdb0413aeaac76018f854c2c962a00ece6df641e75",
+    "path": "references/workouts/sk/agent-work-status.md"
+  }
+}

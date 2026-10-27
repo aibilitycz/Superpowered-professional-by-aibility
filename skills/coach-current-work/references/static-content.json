@@ -1,0 +1,161 @@
+{
+  "staticVersion": "anthropic-static-instructions-v1",
+  "packageVersion": "1.2.4",
+  "sourceMap": "references/source-map.json",
+  "principles": {
+    "cs": {
+      "schemaVersion": "2",
+      "contentVersion": "ai-first-work-principles-v2",
+      "bundleSha": "7a5929862633e01c7576ed86c52487771e349f20a5560d082071253a7b98c322",
+      "principleIds": [
+        "ai_first",
+        "tool_fits_work",
+        "brain_vs_muscle",
+        "everything_is_prompt",
+        "context_is_king",
+        "iterate",
+        "verify",
+        "work_is_system",
+        "ohio",
+        "ai_can_program"
+      ],
+      "path": "references/principles/cs.md"
+    },
+    "en": {
+      "schemaVersion": "2",
+      "contentVersion": "ai-first-work-principles-v2",
+      "bundleSha": "746b8610f607c47d5b1e2dface294dbbd10a38a7f6e2722eeee1a81062da8a43",
+      "principleIds": [
+        "ai_first",
+        "tool_fits_work",
+        "brain_vs_muscle",
+        "everything_is_prompt",
+        "context_is_king",
+        "iterate",
+        "verify",
+        "work_is_system",
+        "ohio",
+        "ai_can_program"
+      ],
+      "path": "references/principles/en.md"
+    },
+    "sk": {
+      "schemaVersion": "2",
+      "contentVersion": "ai-first-work-principles-v2",
+      "bundleSha": "544c15ba8be6104fd42eeeafe9b6a2ad2224abbf8e664adbb2ad01b9b5a79da6",
+      "principleIds": [
+        "ai_first",
+        "tool_fits_work",
+        "brain_vs_muscle",
+        "everything_is_prompt",
+        "context_is_king",
+        "iterate",
+        "verify",
+        "work_is_system",
+        "ohio",
+        "ai_can_program"
+      ],
+      "path": "references/principles/sk.md"
+    },
+    "es": {
+      "schemaVersion": "2",
+      "contentVersion": "ai-first-work-principles-v2",
+      "bundleSha": "375f0d10cf307f86045c3a4586e9c5e35d4e0eccf248584023d2f7521238325d",
+      "principleIds": [
+        "ai_first",
+        "tool_fits_work",
+        "brain_vs_muscle",
+        "everything_is_prompt",
+        "context_is_king",
+        "iterate",
+        "verify",
+        "work_is_system",
+        "ohio",
+        "ai_can_program"
+      ],
+      "path": "references/principles/es.md"
+    },
+    "el": {
+      "schemaVersion": "2",
+      "contentVersion": "ai-first-work-principles-v2",
+      "bundleSha": "a13371ec2f896ab542831f89b8189acf6718e1d683fe4d85181a56335e59ebca",
+      "principleIds": [
+        "ai_first",
+        "tool_fits_work",
+        "brain_vs_muscle",
+        "everything_is_prompt",
+        "context_is_king",
+        "iterate",
+        "verify",
+        "work_is_system",
+        "ohio",
+        "ai_can_program"
+      ],
+      "path": "references/principles/el.md"
+    },
+    "nl": {
+      "schemaVersion": "2",
+      "contentVersion": "ai-first-work-principles-v2",
+      "bundleSha": "c08b4c3ae486cf7e4ebc9eac392df39fad498da9e932fbc697719c4161516057",
+      "principleIds": [
+        "ai_first",
+        "tool_fits_work",
+        "brain_vs_muscle",
+        "everything_is_prompt",
+        "context_is_king",
+        "iterate",
+        "verify",
+        "work_is_system",
+        "ohio",
+        "ai_can_program"
+      ],
+      "path": "references/principles/nl.md"
+    },
+    "fr": {
+      "schemaVersion": "2",
+      "contentVersion": "ai-first-work-principles-v2",
+      "bundleSha": "333946f26793cc548b8126ba773e2d66bfa6b66eb2c4d998dfcc31ec1da00c1e",
+      "principleIds": [
+        "ai_first",
+        "tool_fits_work",
+        "brain_vs_muscle",
+        "everything_is_prompt",
+        "context_is_king",
+        "iterate",
+        "verify",
+        "work_is_system",
+        "ohio",
+        "ai_can_program"
+      ],
+      "path": "references/principles/fr.md"
+    },
+    "hu": {
+      "schemaVersion": "2",
+      "contentVersion": "ai-first-work-principles-v2",
+      "bundleSha": "9dd4402ba62d08202e6796ac2c33618926d8a3a3a1926c301de228cc495cd0df",
+      "principleIds": [
+        "ai_first",
+        "tool_fits_work",
+        "brain_vs_muscle",
+        "everything_is_prompt",
+        "context_is_king",
+        "iterate",
+        "verify",
+        "work_is_system",
+        "ohio",
+        "ai_can_program"
+      ],
+      "path": "references/principles/hu.md"
+    }
+  },
+  "workouts": {
+    "cs": "references/workouts/cs/index.json",
+    "en": "references/workouts/en/index.json",
+    "sk": "references/workouts/sk/index.json",
+    "es": "references/workouts/es/index.json",
+    "el": "references/workouts/el/index.json",
+    "nl": "references/workouts/nl/index.json",
+    "fr": "references/workouts/fr/index.json",
+    "hu": "references/workouts/hu/index.json"
+  }
+}
