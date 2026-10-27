@@ -1,0 +1,442 @@
+{
+  "first-ai-use-case": {
+    "id": "5c48d90f-cf73-4031-b2b7-783331406c92",
+    "versionId": "bb4512f2-9bfe-417a-8a74-1c57ec3f5308",
+    "title": "Los de taak van vandaag op met AI",
+    "expectedResult": "Een afgeronde output voor het werk van vandaag en duidelijkheid over wanneer je AI de volgende keer eerder inschakelt.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "ae40af88f039a839745e421d88274b96ebc3a5cfa60d12a458b4519be57243b3",
+    "path": "references/workouts/nl/first-ai-use-case.md"
+  },
+  "bezpecne-pouzivani": {
+    "id": "617d9f46-44e4-452f-9c98-ba9f28afd151",
+    "versionId": "75727152-eff6-41fd-8cec-a130d4f6537a",
+    "title": "Ontdek wat u in AI mag invoeren: regel voor uw account",
+    "expectedResult": "Regel voor uw AI-account met bronnen, geverifieerd in een nieuw gesprek, en het eerste echte materiaal dat volgens die regel is voorbereid.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "313998b51659de22bcc9e9f2f0c6226ee099613fa639c4e0d6b01a8fdc3c91d0",
+    "path": "references/workouts/nl/bezpecne-pouzivani.md"
+  },
+  "when-chat-is-not-enough": {
+    "id": "d9b1501e-2ebc-4149-b5f4-9e734615b80b",
+    "versionId": "9404db70-cb38-4502-aabc-8ef99f0160a5",
+    "title": "Laat AI in uw map werken: wanneer gewone chat niet genoeg is",
+    "expectedResult": "Een nieuw bestand met het resultaat van een taak die niet in chat kon worden uitgevoerd, plus regels waarmee AI het voortaan aanvult.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "c1bd6949ceb82890bb27163dc573257f0a23ab30cf8d11663d87144b107e7ba8",
+    "path": "references/workouts/nl/when-chat-is-not-enough.md"
+  },
+  "prace-s-daty": {
+    "id": "453de387-e49f-4a13-ab7a-a8a25c8033c9",
+    "versionId": "2251c0e4-b36b-47b2-86e8-6439ccadd44b",
+    "title": "Vraag uw data: AI berekent het antwoord uit een export",
+    "expectedResult": "Antwoord uit alle rijen, één getal gecontroleerd in de tabel en opgeslagen werkwijze met zin voor de volgende export.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "a96c5c6b3f846be0d06c1d7dae45cf8219a06f0b7893dd57b86b95940b46d6b7",
+    "path": "references/workouts/nl/prace-s-daty.md"
+  },
+  "ai-wbs-project": {
+    "id": "41fd0db2-91a5-4e6e-afa9-507a3ff3fb17",
+    "versionId": "30d5e9f9-0413-4783-a340-30db794420c5",
+    "title": "Maak een AI-WBS: projectplanning verdeeld tussen mensen en AI",
+    "expectedResult": "Planning in de projectmap, eerste stap voltooid door AI en regel waarmee AI voltooide stappen markeert.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "d0783c9e5cf1b3f38ad3bec5758aa74a276c6241076d956260e64678728f161b",
+    "path": "references/workouts/nl/ai-wbs-project.md"
+  },
+  "tvorba-prezentace": {
+    "id": "23e6644c-0fd5-4e4e-9f4c-430a6d87588d",
+    "versionId": "ba57f172-854f-44db-98a2-f69cf4a89b22",
+    "title": "Bereid een presentatie-structuur voor: wat te zeggen en hoeveel minuten per onderdeel",
+    "expectedResult": "Hoofdboodschap, onderdelen met minuten precies passend bij uw tijd, dia’s in het bedrijfsjabloon en een regel voor volgende presentaties.",
+    "minimumMinutes": 20,
+    "estimatedMinutes": 20,
+    "sha256": "fed44b4e6a9479b38325238d227d468be2184232c96352271f9c9a78e98aa28f",
+    "path": "references/workouts/nl/tvorba-prezentace.md"
+  },
+  "asistent": {
+    "id": "2bf7ec90-25f8-4afb-8035-35f661512210",
+    "versionId": "dce78799-ad1c-44b4-8034-f5a0e2edf977",
+    "title": "Start een AI-project: richtlijnen en materialen voor elke chat",
+    "expectedResult": "Een project rond één onderwerp met richtlijnen en bestanden, getest in een nieuwe chat, plus een regel waarmee AI wijzigingen meldt.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "24440fafa73850cb9293fa6a61986195786397fcc098c4043819355a101ef4d6",
+    "path": "references/workouts/nl/asistent.md"
+  },
+  "deep-research": {
+    "id": "b6b23cd9-6c4c-4988-94a7-3fbc4d60285c",
+    "versionId": "d6286cc6-2f07-4486-b5ee-d12c739de15d",
+    "title": "Doe Deep Research",
+    "expectedResult": "Deep Research met bronnen, tegenstrijdigheden en duidelijk gemarkeerde punten die niet konden worden geverifieerd.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "29680d862e82bdc7a9b953947047c1b1b6c2af1dc9d02f9e65fa275dd257fbfc",
+    "path": "references/workouts/nl/deep-research.md"
+  },
+  "kontrola-vysledku": {
+    "id": "08a0d07d-aefc-482c-a6c7-807175fdf6cd",
+    "versionId": "d263eeed-9941-403c-ac9f-0f9a7f6f3af2",
+    "title": "Controleer AI-uitvoer: cijfers en beweringen tegen de onderliggende gegevens",
+    "expectedResult": "Gecorrigeerde uitvoer, één cruciaal cijfer zelf geverifieerd in de onderliggende gegevens en een regel tegen de oorzaak van de fout.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "cc0b714d72de6faea6f8ebd20271d2ef746a3eb927728fe44bc2bf9101152408",
+    "path": "references/workouts/nl/kontrola-vysledku.md"
+  },
+  "custom-instructions": {
+    "id": "bd4b2942-008d-471d-9329-b509436ae93e",
+    "versionId": "76f79bd7-c5b9-4930-a3f2-84961014e3d3",
+    "title": "Stel uw Custom Instructions in: permanente richtlijnen voor elke chat",
+    "expectedResult": "Custom Instructions in de instellingen, getest met een echte taak, en een richtlijn waardoor AI correcties onthoudt.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "5a1f0a30d33cb60366006263e07fc8055e71650f199ecf90098629777444c058",
+    "path": "references/workouts/nl/custom-instructions.md"
+  },
+  "pravidla-pro-tym": {
+    "id": "ef103259-fa71-4d02-8435-97adecc7470a",
+    "versionId": "8cfd54e7-4653-4aeb-a3f7-2062d85cd558",
+    "title": "Schrijf AI-regels voor het team: één pagina voor collega’s en hun AI",
+    "expectedResult": "Een pagina met AI-regels in de gedeelde teammap, een richtlijn voor AI van collega’s, en een nieuwe zaak opgelost volgens deze regels.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "2ae3506eaa801f25d4c8718279b420565c490c97de1c74ac9172bea3e0d5b27f",
+    "path": "references/workouts/nl/pravidla-pro-tym.md"
+  },
+  "modely": {
+    "id": "72400f16-e1d9-4238-adc3-c7efef980bf7",
+    "versionId": "8fadf0b0-17c6-4615-ba4d-28d922442f59",
+    "title": "Schakel het model om per taak: snel voor sorteren, krachtig voor beslissen",
+    "expectedResult": "Twee voltooide taken, overzicht van werksoorten met het juiste model en een herinnering wanneer te wisselen.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "94c5e845d391052203ab4fef9877226f69ce346f3b72e2c2d999f1be61567b60",
+    "path": "references/workouts/nl/modely.md"
+  },
+  "panel-expertu": {
+    "id": "448bf4de-2429-4ea1-8c22-b9da85f0762f",
+    "versionId": "4d5fdcd1-5922-4b14-a974-5dd33e062c6c",
+    "title": "Roep een expertpanel bijeen: AI-tegenreactie",
+    "expectedResult": "Een nieuwe versie van het voorstel met alleen de geaccepteerde wijzigingen, een verslag met redenen en een procedure om het panel de volgende keer in één zin bijeen te roepen.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 20,
+    "sha256": "108c4ee5f620ca941813f4f1c8f02ec0295fb92fecd5ba21e5bef31ef760c58c",
+    "path": "references/workouts/nl/panel-expertu.md"
+  },
+  "konverzace-do-struktury": {
+    "id": "5dd6d8da-69c1-4f8a-aaf1-a8c53637761d",
+    "versionId": "802b2ac9-b4b0-4c7b-8151-30b394a9a7e2",
+    "title": "Verwerk de notulen van een vergadering: besluiten en taken voor het project",
+    "expectedResult": "Een verslag waaruit een collega kan opmaken wie wat moet doen, de volledige notulen als bijlage en een regel voor volgende vergaderingen.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "be0d251852a0903c6f782e5f0bc6eb7a2d3922b8f1c94c39be1106b8b03f7e34",
+    "path": "references/workouts/nl/konverzace-do-struktury.md"
+  },
+  "project-start-here": {
+    "id": "574668de-5498-4906-884f-01345da3438d",
+    "versionId": "2c3c6dfd-c72d-4eec-9753-79bfc485e0eb",
+    "title": "Maak uw README: de startpagina van het project",
+    "expectedResult": "Project README, de regel waarmee AI het actueel houdt, en verificatie in een nieuwe chat.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "d4296ed915e9c66c4c68b537b5edbb9c4a717a6b3f7d1b1c60314374cf878c79",
+    "path": "references/workouts/nl/project-start-here.md"
+  },
+  "create-skill-from-proven-process": {
+    "id": "baf15574-866c-40e2-a3eb-441540440365",
+    "versionId": "28fe7400-880c-4ea5-84b3-bc78ae99a4e4",
+    "title": "Maak een skill: een handleiding die AI onthoudt",
+    "expectedResult": "Een skill voor een terugkerende taak, opgeslagen waar AI hem kan vinden, en een volgende taak van hetzelfde type gegeven in één zin.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "0a29c8d79a39e79d3070b205fae950f65b56b4fbe5a35202c818e602ea762519",
+    "path": "references/workouts/nl/create-skill-from-proven-process.md"
+  },
+  "risk-based-prototyping": {
+    "id": "04590aea-aa96-4061-94cc-bd023483e977",
+    "versionId": "c13d3f00-c2c7-4e46-88af-6002d3ac1616",
+    "title": "Gebruik vibe coding: AI bouwt een tool voor je collega’s",
+    "expectedResult": "Een tool in een gedeelde map, getest met een bekend voorbeeld, overgedragen aan een collega, en een regel voor het aanpassen van de prijslijst.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "f5a7847c0d9d963e81e9a2a5c520348d2ab5ae7a2287c601d2a1fe202da91374",
+    "path": "references/workouts/nl/risk-based-prototyping.md"
+  },
+  "recurring-ai-task": {
+    "id": "53e54522-56ff-4cd6-925b-f1aff015ecfa",
+    "versionId": "8122e2d6-0a34-4e42-b5cf-eb40defd19b7",
+    "title": "Plan een terugkerende taak in: AI werkt zelfstandig op vaste tijden",
+    "expectedResult": "Een gecorrigeerd overzicht met actuele gegevens en een geplande taak waarvan u weet wanneer deze voor het eerst wordt uitgevoerd en waar u het resultaat vindt.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "7e6a325429f8537df32f50b9f8015eb1260fd5fb8d6a05ab4df5183c90a4b32f",
+    "path": "references/workouts/nl/recurring-ai-task.md"
+  },
+  "team-adoption-cycle": {
+    "id": "3909921a-0b97-43ee-a98f-8c56ee2b643a",
+    "versionId": "e81c467a-8616-42bd-b269-333d9d7908e4",
+    "title": "Laat collega’s zien wat AI voor jou doet: tien minuten in de vergadering",
+    "expectedResult": "Scenario van de presentatie op jouw casus en een werkwijze met handleiding voor collega’s, die AI na de vergadering aanpaste op basis van waar ze vastliepen.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "0eae12f0d005ec6e332731688737bdcc40bf5c2969bf537003292646318bac68",
+    "path": "references/workouts/nl/team-adoption-cycle.md"
+  },
+  "ai-sprint": {
+    "id": "184ae8ab-e68d-4b4e-a828-60769ae2d7a9",
+    "versionId": "cc70b004-d38b-436a-9c03-3f98ad461c78",
+    "title": "Organiseer een AI-sprint: binnen een middag een werkend resultaat voor het team",
+    "expectedResult": "Opdracht en uitnodiging voor het team, na de sprint een werkend resultaat dat het team gebruikt, een registratie in de worklog en een aanpak voor de volgende keer.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "04624f6babef59da138bfb59f636559643b995ab04adb81fcd784d3d7ea13cce",
+    "path": "references/workouts/nl/ai-sprint.md"
+  },
+  "voice-as-primary-ai-input": {
+    "id": "f4e1b5f8-97df-4ae2-89f6-548646d09653",
+    "versionId": "943e6f88-6fae-4ddd-82a0-7bd8fd448ec7",
+    "title": "Dikteer AI-opdrachten: stem in plaats van typen",
+    "expectedResult": "Voltooid werk op basis van de gedicteerde en gecorrigeerde opdracht en een regel waarmee AI de volgende keer het dicteren eerst zelf ordent.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "2585d0f88090f1fafa0305879ce4dc0854eeddd2fa1d6a104b67efa2b8315fd4",
+    "path": "references/workouts/nl/voice-as-primary-ai-input.md"
+  },
+  "pact-workspace": {
+    "id": "e6ac65d7-2413-4449-9a3d-2ee36d23ac21",
+    "versionId": "5f6e4e6c-e7bb-488f-b9b7-2da8a2112e04",
+    "title": "Maak uw PACT aan: een werkruimte voor AI",
+    "expectedResult": "Een PACT-map met lopende projecten, een AI-overzichtskaart van wat waar ligt, en verificatie met een echte taak.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "b8637e7115240deafe0a30b0fcd4e7139560505acb8916b4a37c785145a47add",
+    "path": "references/workouts/nl/pact-workspace.md"
+  },
+  "project-worklog": {
+    "id": "efb4f162-b04b-4728-b983-b5a759797bc3",
+    "versionId": "16bda977-dbea-4770-8d7b-ba900a47ddbb",
+    "title": "Maak een worklog aan: projectdagboek",
+    "expectedResult": "Worklog met eerste aantekeningen, een regel waarmee AI het na het werk aanvult, en verificatie in een nieuwe chat.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "c7a4eb515097785d9be5c834cd4c1088b5a022d05e124790c3322949ad1e8800",
+    "path": "references/workouts/nl/project-worklog.md"
+  },
+  "agents-md": {
+    "id": "4c781875-3a84-4d3a-ba7f-8ac3d58d7819",
+    "versionId": "73ee6580-cf4e-4a62-8736-ed4778d092a2",
+    "title": "Maak AGENTS.md aan: regels voor AI in één bestand",
+    "expectedResult": "Bestand met jouw regels, dat AI aan het begin van elk werk leest, geverifieerd in een nieuw gesprek.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "dabfeec756c59caf4a4a87f26babcdf234f796f6ef98d1868c7fbaf93dad1397",
+    "path": "references/workouts/nl/agents-md.md"
+  },
+  "plugin-connector": {
+    "id": "b39206bc-9b05-46df-b5ce-660b84b7c7f2",
+    "versionId": "50e0a6c5-b68c-421a-b671-e3ced8edbdc3",
+    "title": "Sluit de connector aan: AI werkt direct in uw applicaties",
+    "expectedResult": "Aangesloten e-mail en agenda, verzonden antwoorden op de meest urgente e-mails en opgeslagen regel voor de volgende keer.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "4fa67deb143e172326be23d9632e6fef547fdfa13eba916042e12a621fa11fa0",
+    "path": "references/workouts/nl/plugin-connector.md"
+  },
+  "cross-app-workflow": {
+    "id": "c44b8907-36ec-4f2d-8ee9-e399a556944a",
+    "versionId": "c03e9c62-11b3-4f43-bb53-09f7a03946d5",
+    "title": "Stel een workflow in over meerdere apps: AI verplaatst data voor u",
+    "expectedResult": "Data overgezet van de ene naar de andere app, concepten van opvolgende e-mails en opgeslagen instructies voor de volgende keer.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "4344dbea51d3755c6a9f4287d1ac689e2a00902f9a9c0421c8381b15f77d8ab6",
+    "path": "references/workouts/nl/cross-app-workflow.md"
+  },
+  "browser-control": {
+    "id": "794f4724-bf19-4672-b36c-52e320aa1c14",
+    "versionId": "daf9c56e-d915-4a35-8d30-eaa933faf895",
+    "title": "Gebruik Browser control: AI klikt voor u in de browser",
+    "expectedResult": "Webtaak voltooid zonder uw klikken, resultaat gecontroleerd op de bronpagina en procedure opgeslagen voor de volgende keer.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "de0b9159ef2d06a867c3df9f8ccc3781934fcd49905870f02b7926e8aa549c76",
+    "path": "references/workouts/nl/browser-control.md"
+  },
+  "computer-control": {
+    "id": "cc2adfbc-d3cd-438f-ae96-719a7f0dae86",
+    "versionId": "96521234-6da0-4678-8f17-e7b4a8de9af0",
+    "title": "Gebruik Computer control: AI bestuurt programma's op uw computer voor u",
+    "expectedResult": "Taak in een programma zonder connector voltooid zonder klikken, tijdsvergelijking met handmatig werk en opgeslagen procedure voor de volgende keer.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 20,
+    "sha256": "e4fc4dfad9e76bd8e299f781c349003a6c78f9e77b304a86035469008cb93f55",
+    "path": "references/workouts/nl/computer-control.md"
+  },
+  "tone-of-voice": {
+    "id": "25504faf-6e9e-4d4b-8f57-d3aac35b36a8",
+    "versionId": "441d4adf-58e8-43aa-a398-7dbba9669bad",
+    "title": "Sla je tone of voice op: jouw schrijfstijl in een bestand",
+    "expectedResult": "Een bestand met regels en voorbeelden van jouw stijl en dezelfde e-mail zonder en met dit bestand, zodat je het verschil ziet.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "20e57c42a06d8dcc7895609608e109b8d0b45a9330135a20f5a1ebb0bc9a82c7",
+    "path": "references/workouts/nl/tone-of-voice.md"
+  },
+  "anti-slop": {
+    "id": "d9b9998d-dada-4c02-8acb-893a632a47d2",
+    "versionId": "dbbf72b0-9ce8-48bc-82bc-82293b737c70",
+    "title": "Controleer tekst met anti-slop: zorg dat het niet als AI-tekst klinkt",
+    "expectedResult": "Tekst klaar om te versturen, opgeslagen lijst met ongewenste uitdrukkingen en regel waarmee AI volgende teksten controleert.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "732f7dfbba391958afdcdcb0b2c4af236b1acb3dcd6ed2efb5fdd864254ede1d",
+    "path": "references/workouts/nl/anti-slop.md"
+  },
+  "idea-file": {
+    "id": "00c15e2b-f3e7-464c-96d6-c408d3439fa0",
+    "versionId": "18ccc660-e6fb-4cea-a5fd-bc8fc6e8d664",
+    "title": "Bereid een idea file voor: idee op één pagina",
+    "expectedResult": "Een idea file die een andere AI net zo begrijpt als u, en de regel voor de volgende keer: „maak er een idea file van“.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "05785f8f88d14c855bf80117373ee698bd3f2f300bc858006c96721d4694f277",
+    "path": "references/workouts/nl/idea-file.md"
+  },
+  "handoff": {
+    "id": "d789dae0-8c2a-4a75-9f86-715733d2038c",
+    "versionId": "d24d2c42-d1c4-46fc-9923-ed29b7994295",
+    "title": "Bereid handoff voor: overdracht van lopend werk",
+    "expectedResult": "Een handoff waarmee een nieuwe chat zonder navragen verder ging, en een regel waardoor het volgende keer volstaat om „handoff“ te typen.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "f7c51f1633e4e8c3a1f6d98f5116e4affe128efc1f85a0856d866d58e1ce4f9e",
+    "path": "references/workouts/nl/handoff.md"
+  },
+  "agent-task": {
+    "id": "a9d6917c-29f7-4c53-a6a9-83e39f702f79",
+    "versionId": "ea1e88a2-d103-4986-9d16-c7d01795e285",
+    "title": "Geef een taak aan de agent: AI maakt het zelf af",
+    "expectedResult": "Een afgeronde lange taak overgenomen op basis van bewijs voor elke voorwaarde en regel, zodat AI de voorwaarden de volgende keer zelf kan voorstellen.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "87e2e496fadb6ea7f924abfe10fe167da1134124bfe6fc7677f0532155e93afb",
+    "path": "references/workouts/nl/agent-task.md"
+  },
+  "web-page-output": {
+    "id": "dafeaecd-21fb-451f-a5c3-7bd24e9c3277",
+    "versionId": "d73859b6-642f-47e8-8cf8-1b26017ccd4e",
+    "title": "Stuur een link in plaats van een bijlage: webpagina door AI",
+    "expectedResult": "Een pagina van uw document, een link gecontroleerd op de telefoon en verstuurd in plaats van een bijlage, en een opmaaktemplate opgeslagen voor de volgende keer.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "2722db0a947729329eee286952161d4805b0be9e199111cb156c6f3ca3abe3bf",
+    "path": "references/workouts/nl/web-page-output.md"
+  },
+  "tokens-limits": {
+    "id": "43ad7c77-aa3f-4d65-a9cf-f449481c8081",
+    "versionId": "fa2a899a-5510-40ca-b590-8d22f17b8ad6",
+    "title": "Bespaar tokens: laat uw AI-limiet een hele week meegaan",
+    "expectedResult": "Lopend werk in een nieuwe korte chat en regels waarmee AI zelf tokens bespaart.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "faa501c2d29debdac42be1c10a4f739481336e688ecd21954aac3fbff5a4c021",
+    "path": "references/workouts/nl/tokens-limits.md"
+  },
+  "weekly-ai-review": {
+    "id": "658f51cc-9ed8-4db8-911e-f6bb0f5a95aa",
+    "versionId": "e37893a1-8da4-48b2-8ddb-9ed218f338ec",
+    "title": "Voer een wekelijkse review in: opruimen van uw AI-instellingen",
+    "expectedResult": "Rapport van de eerste review, bevestigde oplossing van het terugkerende probleem in een nieuwe chat en review gepland voor elke vrijdag.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "83b8274355c5c5164cd1981d0b87ed67b4048bdfe6c82a50f314f61b3ce67804",
+    "path": "references/workouts/nl/weekly-ai-review.md"
+  },
+  "how-ai-works": {
+    "id": "4bfb7d7c-8e98-4560-a516-27cd7d86275e",
+    "versionId": "ff799ee7-3ea8-4271-b621-5652601b4876",
+    "title": "Ontdek hoe AI werkt: wanneer u het kunt vertrouwen en wanneer u het antwoord moet verifiëren",
+    "expectedResult": "Een verbeterde versie van de taak voor deze week, het getal dat u zelf in de bron hebt gevonden, en uw regel opgeslagen in het geheugen van AI.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 20,
+    "sha256": "6f19e6b6aeea76a391df99bf34d67d8265bb243103f95915cde46f5ffe627a62",
+    "path": "references/workouts/nl/how-ai-works.md"
+  },
+  "ai-memory": {
+    "id": "15110c30-6360-4eba-b408-f8b973e5dfe0",
+    "versionId": "429cd4c3-a0f4-415c-9688-ee47ced0ef49",
+    "title": "Ruim uw AI-geheugen op: wat AI tussen chats over u onthoudt",
+    "expectedResult": "Een geheugen zonder verouderde en dubbele gegevens, geverifieerd in een nieuwe chat, en een regel voor hoe AI correcties opslaat.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "8192498705e9e79837c9e261ba3c928fc882ad7b43c11e032561aeeea6cf27c1",
+    "path": "references/workouts/nl/ai-memory.md"
+  },
+  "ai-disclosure": {
+    "id": "01b00d56-761c-4897-a3e4-bba3d45b5bfc",
+    "versionId": "547ae28e-75fc-41bb-bfef-d4ffbaba4284",
+    "title": "Geef aan waarmee AI u heeft geholpen: zin voor de klant volgens bedrijfsregels",
+    "expectedResult": "Tekst klaar om te versturen, duidelijkheid over bedrijfsregels voor AI en instructie zodat AI de zin voortaan zelf voorstelt.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "2813efc73c23d1791fb0090867d9431da280d4bf444d496c96c5f5b91f75c392",
+    "path": "references/workouts/nl/ai-disclosure.md"
+  },
+  "agent-permissions": {
+    "id": "38b22a41-4291-463e-8b0d-bfc173a93e53",
+    "versionId": "b565c3e6-c47a-47f4-91ec-287a45eea0a7",
+    "title": "Stel agentmachtigingen in: wat hij zelf mag en wat nooit zonder u mag",
+    "expectedResult": "Gekozen machtigingsmodus, harde grenzen in het AI-regelbestand en verificatie in een echte taak dat AI zich eraan houdt.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "7cd98d309cc159a893e7b9d8f750c0a1d4325ff03b3fcd0676de1e0645f5d1cc",
+    "path": "references/workouts/nl/agent-permissions.md"
+  },
+  "live-web-data": {
+    "id": "8969b5d0-8482-4185-91ab-008327c96c55",
+    "versionId": "b4a51747-e63e-4b4f-bb7c-0231f07ed77b",
+    "title": "Laat AI live data downloaden: actuele cijfers met bron en datum",
+    "expectedResult": "Een tabel met cijfers voor uw taak, het belangrijkste geverifieerd in de bron en de procedure die AI de volgende keer in één zin uitvoert.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "2bbed450952c606d4444545bf05d9a05f576ce8125690dcd11fec31a2b8814b9",
+    "path": "references/workouts/nl/live-web-data.md"
+  },
+  "parallel-ai-workstreams": {
+    "id": "be77c092-129c-490e-a122-a1d56a92f705",
+    "versionId": "4ab24e58-8057-49e2-a930-fd13db31b0f9",
+    "title": "Verdeel werk in parallelle threads: AI doet alle delen tegelijk",
+    "expectedResult": "Groot werk afgerond via parallelle threads, vergelijking met uw beslissingen en regel voor volgende verdeling.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "9565a2623fa29cca03b8f3cf6b2ea6dc45916dc8eda561eea568034939a9c5a9",
+    "path": "references/workouts/nl/parallel-ai-workstreams.md"
+  },
+  "hooks": {
+    "id": "a9a22bdc-ed72-409e-8f73-e377b9f41616",
+    "versionId": "25291457-f3e0-425b-b82b-e256abcc8bd6",
+    "title": "Stel uw hook in: documentcontrole die AI niet mist",
+    "expectedResult": "Hook met controle volgens uw regels, bevindingen in oudere documenten en controleresultaat na elk werk.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "ecb431823ed6088a423b5724b2d59fa0fae5d8d3ea66a0fb2ba3b82d542b6961",
+    "path": "references/workouts/nl/hooks.md"
+  },
+  "agent-work-status": {
+    "id": "d686aada-d48b-4440-9fc7-391bdaa0f952",
+    "versionId": "f35c8cf0-a3d0-4629-98d5-5e16a723321a",
+    "title": "Laat AI de status van taken bijhouden: collega weet waar uw werk staat",
+    "expectedResult": "Eén werk afgerond van taakaanmaak tot afsluiting, registratie in worklog en regel die AI dit altijd laat doen.",
+    "minimumMinutes": 15,
+    "estimatedMinutes": 15,
+    "sha256": "630836c691eefa134248785e2a446c214b3c76ef44d98f1edfecd53222b21fa4",
+    "path": "references/workouts/nl/agent-work-status.md"
+  }
+}
