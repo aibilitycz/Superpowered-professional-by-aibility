@@ -6,6 +6,10 @@ Raw work evidence remains in the host; only bounded MCP inputs and explicitly co
 
 Source: https://github.com/aibilitycz/Superpowered-professional-by-aibility
 
+Install on Claude Code 2.1.275 or later:
+
+`/plugin install superpowered-professional --marketplace aibilitycz/Superpowered-professional-by-aibility`
+
 Privacy: https://sp.aimee.coach/en/privacy
 
 Support: https://aibility.org/kontakt or `podpora@aibility.cz`
