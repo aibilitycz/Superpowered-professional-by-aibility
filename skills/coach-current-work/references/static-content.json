@@ -1,7 +1,6 @@
 {
-  "staticVersion": "anthropic-static-instructions-v1",
-  "packageVersion": "1.2.4",
-  "sourceMap": "references/source-map.json",
+  "staticVersion": "anthropic-static-instructions-v2",
+  "packageVersion": "1.2.5",
   "principles": {
     "cs": {
       "schemaVersion": "2",

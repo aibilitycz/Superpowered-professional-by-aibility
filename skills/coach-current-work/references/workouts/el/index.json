@@ -5,9 +5,7 @@
     "title": "Επιλύστε το σημερινό σας καθήκον με AI",
     "expectedResult": "Έτοιμο αποτέλεσμα για τη σημερινή εργασία και σαφής εικόνα για το πότε θα ενσωματώσετε την AI νωρίτερα την επόμενη φορά.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "38b726daef10df6e49689c64a0ba07d800440dae09e2991031eec7dff4f769ee",
-    "path": "references/workouts/el/first-ai-use-case.md"
+    "estimatedMinutes": 15
   },
   "bezpecne-pouzivani": {
     "id": "617d9f46-44e4-452f-9c98-ba9f28afd151",
@@ -15,9 +13,7 @@
     "title": "Μάθετε τι επιτρέπεται να δίνετε στην AI: κανόνας για τον λογαριασμό σας",
     "expectedResult": "Κανόνας για τον AI λογαριασμό σας με πηγές, επαληθευμένος σε νέα συνομιλία, και το πρώτο πραγματικό υπόβαθρο προετοιμασμένο σύμφωνα με αυτόν.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "562511b9f7982a0a6e882a44ad96c602a085e4ddc715c2884ebfb3726bd3853c",
-    "path": "references/workouts/el/bezpecne-pouzivani.md"
+    "estimatedMinutes": 15
   },
   "when-chat-is-not-enough": {
     "id": "d9b1501e-2ebc-4149-b5f4-9e734615b80b",
@@ -25,9 +21,7 @@
     "title": "Αφήστε την AI στον φάκελό σας: όταν η απλή συνομιλία δεν αρκεί",
     "expectedResult": "Νέο αρχείο με το αποτέλεσμα της εργασίας που δεν μπορούσε να γίνει στη συνομιλία και κανόνες για το πώς η AI θα το συμπληρώνει στο μέλλον.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "3dca39187653575906d36d3ea99ef2b94040502e530912eb3ec09b8ac9dea84e",
-    "path": "references/workouts/el/when-chat-is-not-enough.md"
+    "estimatedMinutes": 15
   },
   "prace-s-daty": {
     "id": "453de387-e49f-4a13-ab7a-a8a25c8033c9",
@@ -35,9 +29,7 @@
     "title": "Ρωτήστε τα δεδομένα σας: Η AI υπολογίζει την απάντηση από εξαγωγή",
     "expectedResult": "Απάντηση από όλες τις γραμμές, ένας αριθμός επαληθευμένος στον πίνακα και αποθηκευμένη διαδικασία με πρόταση για την επόμενη εξαγωγή.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "49072c242257f155f70998a8a8956435ba3686a82c6634b144c52c37c0177f09",
-    "path": "references/workouts/el/prace-s-daty.md"
+    "estimatedMinutes": 15
   },
   "ai-wbs-project": {
     "id": "41fd0db2-91a5-4e6e-afa9-507a3ff3fb17",
@@ -45,9 +37,7 @@
     "title": "Δημιουργήστε AI-WBS: Σχέδιο έργου κατανεμημένο σε ανθρώπους και AI",
     "expectedResult": "Σχέδιο στον φάκελο έργου, πρώτο βήμα ολοκληρωμένο από AI και κανόνας με τον οποίο η AI σημειώνει τα ολοκληρωμένα βήματα.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "2638379aee210989996db75f9fa1330e9c69432a6be99a1689eb03509ad268e7",
-    "path": "references/workouts/el/ai-wbs-project.md"
+    "estimatedMinutes": 15
   },
   "tvorba-prezentace": {
     "id": "23e6644c-0fd5-4e4e-9f4c-430a6d87588d",
@@ -55,9 +45,7 @@
     "title": "Ετοιμάστε το περίγραμμα της παρουσίασης: τι να πείτε και πόσα λεπτά για κάθε μέρος",
     "expectedResult": "Κύριο μήνυμα, μέρη με λεπτά ακριβώς στον χρόνο σας, διαφάνειες με πρότυπο εταιρείας και κανόνας για την επόμενη παρουσίαση.",
     "minimumMinutes": 20,
-    "estimatedMinutes": 20,
-    "sha256": "75be286d40ea5aa8cd515352cc2e90d7d267724f796503f11d2000e31f6bbe98",
-    "path": "references/workouts/el/tvorba-prezentace.md"
+    "estimatedMinutes": 20
   },
   "asistent": {
     "id": "2bf7ec90-25f8-4afb-8035-35f661512210",
@@ -65,9 +53,7 @@
     "title": "Δημιουργήστε ένα έργο στην AI: οδηγίες και υλικό για κάθε συνομιλία",
     "expectedResult": "Έργο για ένα θέμα με οδηγίες και αρχεία, επαληθευμένο σε νέα συνομιλία, και γραμμή με την οποία η AI αναφέρει αλλαγές.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "82479b6933633477920d6447cdb846f853271c6735281eee6bd43d7b2f0f21a5",
-    "path": "references/workouts/el/asistent.md"
+    "estimatedMinutes": 15
   },
   "deep-research": {
     "id": "b6b23cd9-6c4c-4988-94a7-3fbc4d60285c",
@@ -75,9 +61,7 @@
     "title": "Κάντε Βαθιά Έρευνα",
     "expectedResult": "Βαθιά Έρευνα με πηγές, αντιφάσεις και σαφώς επισημασμένα σημεία που δεν κατέστη δυνατό να επαληθευτούν.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "c8c863deafd0aef9bdc0de7315dd16dd5231eded2c41f53e7e6721a340eca990",
-    "path": "references/workouts/el/deep-research.md"
+    "estimatedMinutes": 15
   },
   "kontrola-vysledku": {
     "id": "08a0d07d-aefc-482c-a6c7-807175fdf6cd",
@@ -85,9 +69,7 @@
     "title": "Ελέγξτε την έξοδο AI: αριθμοί και ισχυρισμοί έναντι των υποστηρικτικών στοιχείων",
     "expectedResult": "Διορθωμένη έξοδος, ένας βασικός αριθμός επαληθευμένος με προσωπικό έλεγχο στα υποστηρικτικά στοιχεία και κανόνας κατά της αιτίας του λάθους.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "f794b10f99681ecc33e0b448151252a59fa0a32c527a5b61a3a215b377315365",
-    "path": "references/workouts/el/kontrola-vysledku.md"
+    "estimatedMinutes": 15
   },
   "custom-instructions": {
     "id": "bd4b2942-008d-471d-9329-b509436ae93e",
@@ -95,9 +77,7 @@
     "title": "Ρυθμίστε τις Custom Instructions: μόνιμες οδηγίες για κάθε συνομιλία",
     "expectedResult": "Custom Instructions στις ρυθμίσεις, επαληθευμένες σε πραγματική εργασία, και οδηγία που κάνει την AI να θυμάται διορθώσεις.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "eb0d8edc978d40a5bf5a1ff6982831bec71a3f2678f3f30b8b27f3a220711d7d",
-    "path": "references/workouts/el/custom-instructions.md"
+    "estimatedMinutes": 15
   },
   "pravidla-pro-tym": {
     "id": "ef103259-fa71-4d02-8435-97adecc7470a",
@@ -105,9 +85,7 @@
     "title": "Καταγράψτε κανόνες για την ομάδα σχετικά με την AI: μία σελίδα για συναδέλφους και την AI τους",
     "expectedResult": "Σελίδα κανόνων AI στον κοινόχρηστο φάκελο της ομάδας, οδηγία που ακολουθεί η AI των συναδέλφων και μια νέα υπόθεση που λύθηκε βάσει αυτής.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "d3685922a1156390ef972d2b848f8e4babf6727dc0a84bacd30fe6ad045e0730",
-    "path": "references/workouts/el/pravidla-pro-tym.md"
+    "estimatedMinutes": 15
   },
   "modely": {
     "id": "72400f16-e1d9-4238-adc3-c7efef980bf7",
@@ -115,9 +93,7 @@
     "title": "Εναλλαγή μοντέλου ανάλογα με την εργασία: γρήγορο για ταξινόμηση, ισχυρό για αποφάσεις",
     "expectedResult": "Δύο ολοκληρωμένες εργασίες, επισκόπηση τύπων εργασιών με κατάλληλο μοντέλο και υπενθύμιση πότε να αλλάξετε μοντέλο.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "f7a55e3d7d24441871020222c6602d52fc68b28bcd84f73fe1a9b8c97bf1f737",
-    "path": "references/workouts/el/modely.md"
+    "estimatedMinutes": 15
   },
   "panel-expertu": {
     "id": "448bf4de-2429-4ea1-8c22-b9da85f0762f",
@@ -125,9 +101,7 @@
     "title": "Συγκεντρώστε πάνελ ειδικών: αντίλογος από AI",
     "expectedResult": "Νέα έκδοση της πρότασης μόνο με τις αποδεκτές αλλαγές, πρακτικό με αιτιολογίες και διαδικασία για την επόμενη σύγκληση του πάνελ σε μία πρόταση.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 20,
-    "sha256": "59b39f75f710e886dac127fa7f504b939bc8b4f440a3cce0db8e5e11ea4e30a7",
-    "path": "references/workouts/el/panel-expertu.md"
+    "estimatedMinutes": 20
   },
   "konverzace-do-struktury": {
     "id": "5dd6d8da-69c1-4f8a-aaf1-a8c53637761d",
@@ -135,9 +109,7 @@
     "title": "Επεξεργαστείτε το απομαγνητοφωνημένο κείμενο της συνάντησης: αποφάσεις και εργασίες για το έργο",
     "expectedResult": "Περίληψη από την οποία ο συνάδελφος καταλαβαίνει ποιος έχει τι να κάνει, ολόκληρο το απομαγνητοφωνημένο κείμενο στα αρχεία και κανόνας για τις επόμενες συναντήσεις.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "9d0fd9ac07b90e1d0ae1af5be240faa6455594bad419bd4158239a0c3f4ac91e",
-    "path": "references/workouts/el/konverzace-do-struktury.md"
+    "estimatedMinutes": 15
   },
   "project-start-here": {
     "id": "574668de-5498-4906-884f-01345da3438d",
@@ -145,9 +117,7 @@
     "title": "Δημιουργήστε το README σας: αρχική σελίδα έργου",
     "expectedResult": "README έργου, κανόνας που διατηρεί την AI ενημερωμένη και επαλήθευση σε νέα συνομιλία.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "2aaa75102a01929cd564703348c5f5fd394f948e7e10d70454c8b9c6e655fa75",
-    "path": "references/workouts/el/project-start-here.md"
+    "estimatedMinutes": 15
   },
   "create-skill-from-proven-process": {
     "id": "baf15574-866c-40e2-a3eb-441540440365",
@@ -155,9 +125,7 @@
     "title": "Δημιουργήστε δεξιότητα: οδηγός που θυμάται η AI",
     "expectedResult": "Δεξιότητα για τακτική εργασία, αποθηκευμένη εκεί όπου η AI την βρίσκει, και επόμενη παρόμοια εργασία με μια πρόταση.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "a7d21d0b98a7f90dd1918a84b3f149cc1ca164056bcae3c6c7810ffdbe231d07",
-    "path": "references/workouts/el/create-skill-from-proven-process.md"
+    "estimatedMinutes": 15
   },
   "risk-based-prototyping": {
     "id": "04590aea-aa96-4061-94cc-bd023483e977",
@@ -165,9 +133,7 @@
     "title": "Χρησιμοποιήστε το vibe coding: Η AI δημιουργεί εργαλείο για τους συναδέλφους σας",
     "expectedResult": "Ένα εργαλείο σε κοινόχρηστο φάκελο, επαληθευμένο με γνωστή περίπτωση, παραδομένο σε συνάδελφο, και κανόνας για την αλλαγή τιμοκαταλόγου.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "05579e95e889238421d2c5b5cd648f268573edfc03ea3fc718dd0ba6cc1b9477",
-    "path": "references/workouts/el/risk-based-prototyping.md"
+    "estimatedMinutes": 15
   },
   "recurring-ai-task": {
     "id": "53e54522-56ff-4cd6-925b-f1aff015ecfa",
@@ -175,9 +141,7 @@
     "title": "Ορίστε προγραμματισμένη εργασία: Η AI λειτουργεί αυτόνομα σε τακτική ώρα",
     "expectedResult": "Διορθωμένη αναφορά με τα σημερινά δεδομένα και προγραμματισμένη εργασία με γνωστή πρώτη εκτέλεση και θέση αποτελέσματος.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "da8166a3ae9beef2041120fb81a3c93daa54b2cf97ad6c1f5b9e5b5baee0ccff",
-    "path": "references/workouts/el/recurring-ai-task.md"
+    "estimatedMinutes": 15
   },
   "team-adoption-cycle": {
     "id": "3909921a-0b97-43ee-a98f-8c56ee2b643a",
@@ -185,9 +149,7 @@
     "title": "Δείξτε στους συναδέλφους τι λειτουργεί με την AI: δέκα λεπτά στη σύσκεψη",
     "expectedResult": "Σενάριο επίδειξης με το δικό σας παράδειγμα και διαδικασία με οδηγίες για τους συναδέλφους, που η AI προσαρμόζει μετά τη σύσκεψη ανάλογα με τα σημεία που δυσκολεύτηκαν.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "201d3d26ff6baa5f8f8c9b672ed1d2aa21fbebf0bd449f3957b53dbeef40274d",
-    "path": "references/workouts/el/team-adoption-cycle.md"
+    "estimatedMinutes": 15
   },
   "ai-sprint": {
     "id": "184ae8ab-e68d-4b4e-a828-60769ae2d7a9",
@@ -195,9 +157,7 @@
     "title": "Οργανώστε AI sprint: ολοκληρωμένο έργο σε ένα απόγευμα που χρησιμοποιεί η ομάδα",
     "expectedResult": "Έργο και πρόσκληση για την ομάδα, μετά το sprint ένα έργο που χρησιμοποιεί η ομάδα, καταγραφή στο worklog και διαδικασία για την επόμενη φορά.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "c10e4eb073cd000a1694dcaae638db6eed6e6f35f76f7839c3ff00bef5247f5b",
-    "path": "references/workouts/el/ai-sprint.md"
+    "estimatedMinutes": 15
   },
   "voice-as-primary-ai-input": {
     "id": "f4e1b5f8-97df-4ae2-89f6-548646d09653",
@@ -205,9 +165,7 @@
     "title": "Υπαγορεύστε την εργασία στην AI: φωνή αντί για πληκτρολόγηση",
     "expectedResult": "Ολοκληρωμένη εργασία από τις υπαγορευμένες και διορθωμένες οδηγίες και κανόνας με τον οποίο η AI την επόμενη φορά θα οργανώνει πρώτα μόνη της την υπαγόρευση.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "414c1c0b4867df8e2e616bd15ef60fc5056d0f8622f01eb6ab5068cdb55d4016",
-    "path": "references/workouts/el/voice-as-primary-ai-input.md"
+    "estimatedMinutes": 15
   },
   "pact-workspace": {
     "id": "e6ac65d7-2413-4449-9a3d-2ee36d23ac21",
@@ -215,9 +173,7 @@
     "title": "Δημιουργήστε το PACT: χώρο εργασίας για AI",
     "expectedResult": "Φάκελος PACT με εκκρεμή έργα, χάρτης για την AI με τοποθεσίες και επαλήθευση σε πραγματική εργασία.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "f41700e92c19d90d14ebabcf640d8b13aad41223c107613cebc2bcc1d5b6678f",
-    "path": "references/workouts/el/pact-workspace.md"
+    "estimatedMinutes": 15
   },
   "project-worklog": {
     "id": "efb4f162-b04b-4728-b983-b5a759797bc3",
@@ -225,9 +181,7 @@
     "title": "Δημιουργήστε ένα worklog: ημερολόγιο έργου",
     "expectedResult": "Worklog με τις πρώτες καταγραφές, κανόνας με τον οποίο η AI το συμπληρώνει μετά την εργασία, και επαλήθευση σε νέα συνομιλία.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "6bde38d0ca9fb569391baa7f9806c2a7b8da270a4a6642020570e7c7fa1dc987",
-    "path": "references/workouts/el/project-worklog.md"
+    "estimatedMinutes": 15
   },
   "agents-md": {
     "id": "4c781875-3a84-4d3a-ba7f-8ac3d58d7819",
@@ -235,9 +189,7 @@
     "title": "Δημιουργήστε το AGENTS.md: κανόνες για την AI σε ένα αρχείο",
     "expectedResult": "Αρχείο με τους κανόνες σας, που η AI διαβάζει στην αρχή κάθε εργασίας, επαληθευμένο σε νέα συνομιλία.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "a33becffac72e8b71240fb59406c296f8c88be0165b61e2ee3ba3f2e79a2ad62",
-    "path": "references/workouts/el/agents-md.md"
+    "estimatedMinutes": 15
   },
   "plugin-connector": {
     "id": "b39206bc-9b05-46df-b5ce-660b84b7c7f2",
@@ -245,9 +197,7 @@
     "title": "Συνδέστε τον Connector: Η AI λειτουργεί απευθείας στις εφαρμογές σας",
     "expectedResult": "Συνδεδεμένο email και ημερολόγιο, απαντήσεις στα πιο επείγοντα μηνύματα και αποθηκευμένος κανόνας για την επόμενη φορά.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "bc956d607e9dd27ca678b206d6284440dc093fae802f214baa584718107f5653",
-    "path": "references/workouts/el/plugin-connector.md"
+    "estimatedMinutes": 15
   },
   "cross-app-workflow": {
     "id": "c44b8907-36ec-4f2d-8ee9-e399a556944a",
@@ -255,9 +205,7 @@
     "title": "Ρυθμίστε ροή εργασίας μεταξύ εφαρμογών: Η AI μεταφέρει τα δεδομένα για εσάς",
     "expectedResult": "Δεδομένα μεταφερμένα από μια εφαρμογή σε άλλη, προσχέδια απαντήσεων email και αποθηκευμένες οδηγίες για την επόμενη φορά.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "4f2e5bf6a74d2ebbba1f61c99b504cac2b89a43abce06f286b66f19b0aad6f1a",
-    "path": "references/workouts/el/cross-app-workflow.md"
+    "estimatedMinutes": 15
   },
   "browser-control": {
     "id": "794f4724-bf19-4672-b36c-52e320aa1c14",
@@ -265,9 +213,7 @@
     "title": "Χρησιμοποιήστε τον Έλεγχο Περιηγητή: Η AI κάνει κλικ για εσάς στον περιηγητή",
     "expectedResult": "Η διαδικασία στον ιστό ολοκληρώνεται χωρίς τα δικά σας κλικ, το αποτέλεσμα επαληθεύεται στην αρχική σελίδα και η διαδικασία αποθηκεύεται για την επόμενη φορά.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "ce5f2a2b3ab6f12c8345b78f1a53f024482e6286aed30833bd814122e8fd9a22",
-    "path": "references/workouts/el/browser-control.md"
+    "estimatedMinutes": 15
   },
   "computer-control": {
     "id": "cc2adfbc-d3cd-438f-ae96-719a7f0dae86",
@@ -275,9 +221,7 @@
     "title": "Χρησιμοποιήστε τον Έλεγχο Υπολογιστή: Η AI χειρίζεται τα προγράμματα στον υπολογιστή σας",
     "expectedResult": "Η εργασία σε πρόγραμμα χωρίς σύνδεσμο ολοκληρώνεται χωρίς κλικ, σύγκριση χρόνου με χειροκίνητη εργασία και αποθηκευμένη διαδικασία για την επόμενη φορά.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 20,
-    "sha256": "fd4f165e71927715831aec0c433f075432d1dc88334a06bf6d4f7a12538072f0",
-    "path": "references/workouts/el/computer-control.md"
+    "estimatedMinutes": 20
   },
   "tone-of-voice": {
     "id": "25504faf-6e9e-4d4b-8f57-d3aac35b36a8",
@@ -285,9 +229,7 @@
     "title": "Αποθηκεύστε το tone of voice: το στυλ γραφής σας σε αρχείο",
     "expectedResult": "Αρχείο με κανόνες και παραδείγματα του στυλ σας και το ίδιο email χωρίς και με αυτό, για να δείτε τη διαφορά.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "1044ae151db3e2b43b01758dfaf6e3a85ee36cb6ed2d4acaeaa68f037b3ed7cc",
-    "path": "references/workouts/el/tone-of-voice.md"
+    "estimatedMinutes": 15
   },
   "anti-slop": {
     "id": "d9b9998d-dada-4c02-8acb-893a632a47d2",
@@ -295,9 +237,7 @@
     "title": "Επεξεργαστείτε το κείμενο με anti-slop: να μην ακούγεται σαν από AI",
     "expectedResult": "Κείμενο έτοιμο για αποστολή, αποθηκευμένη λίστα εκφράσεων που δεν θέλετε και κανόνας με τον οποίο η AI ελέγχει τα επόμενα κείμενα.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "bb696c32540486d0b8923e249b21d6f6ecac6f2417e85503a3e29fbb2b9b532f",
-    "path": "references/workouts/el/anti-slop.md"
+    "estimatedMinutes": 15
   },
   "idea-file": {
     "id": "00c15e2b-f3e7-464c-96d6-c408d3439fa0",
@@ -305,9 +245,7 @@
     "title": "Ετοιμάστε αρχείο ιδέας: ιδέα σε μία σελίδα",
     "expectedResult": "Αρχείο ιδέας που κατανοεί άλλη AI όπως εσείς, και κανόνας για την επόμενη φορά: «κάνε το αρχείο ιδέας».",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "1b41d85e542e00cf50c2e21eb2d17bc8ef0ca824b7a5300b0272eb0fb0c3828a",
-    "path": "references/workouts/el/idea-file.md"
+    "estimatedMinutes": 15
   },
   "handoff": {
     "id": "d789dae0-8c2a-4a75-9f86-715733d2038c",
@@ -315,9 +253,7 @@
     "title": "Ετοιμάστε handoff: παράδοση ημιτελούς εργασίας",
     "expectedResult": "Handoff που επιτρέπει στη νέα συνομιλία να συνεχίσει χωρίς ερωτήσεις, και κανόνας που επιτρέπει να γράφετε απλώς «handoff» την επόμενη φορά.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "4a7f7789b8410eae64bd967f97d3cb7f5b53f3087f026e4a0d33768708b4655e",
-    "path": "references/workouts/el/handoff.md"
+    "estimatedMinutes": 15
   },
   "agent-task": {
     "id": "a9d6917c-29f7-4c53-a6a9-83e39f702f79",
@@ -325,9 +261,7 @@
     "title": "Ανάθεση εργασίας σε πράκτορα: Η AI την ολοκληρώνει αυτόνομα",
     "expectedResult": "Ολοκληρωμένη μακροχρόνια εργασία παραληφθείσα βάσει αποδείξεων για κάθε προϋπόθεση και κανόνα, ώστε η AI να προτείνει μόνη της τις προϋποθέσεις στο μέλλον.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "d73c23f910c4b8cf008cb3258fbd9a56174947a4f09fd1f8799cc2f567334cb3",
-    "path": "references/workouts/el/agent-task.md"
+    "estimatedMinutes": 15
   },
   "web-page-output": {
     "id": "dafeaecd-21fb-451f-a5c3-7bd24e9c3277",
@@ -335,9 +269,7 @@
     "title": "Στείλτε σύνδεσμο αντί για συνημμένο: ιστοσελίδα από AI",
     "expectedResult": "Σελίδα από το έγγραφό σας, σύνδεσμος επαληθευμένος σε τηλέφωνο και αποσταλμένος αντί για συνημμένο, και αποθηκευμένο πρότυπο εμφάνισης για την επόμενη φορά.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "e2e1b2c8e22bfad519819aac49331625e31f34d7cd88164d772bc011a3978542",
-    "path": "references/workouts/el/web-page-output.md"
+    "estimatedMinutes": 15
   },
   "tokens-limits": {
     "id": "43ad7c77-aa3f-4d65-a9cf-f449481c8081",
@@ -345,9 +277,7 @@
     "title": "Εξοικονομήστε tokens: διατηρήστε το όριο AI όλη την εβδομάδα",
     "expectedResult": "Ημιτελής δουλειά σε νέα σύντομη συνομιλία και κανόνες με τους οποίους η AI εξοικονομεί tokens αυτόματα.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "04ee2911b994f43ac983226a962cd5678ee8aa8478a4bc6fb226588bb6de8ca2",
-    "path": "references/workouts/el/tokens-limits.md"
+    "estimatedMinutes": 15
   },
   "weekly-ai-review": {
     "id": "658f51cc-9ed8-4db8-911e-f6bb0f5a95aa",
@@ -355,9 +285,7 @@
     "title": "Εφαρμόστε εβδομαδιαία ανασκόπηση: καθαρισμός των ρυθμίσεων AI σας",
     "expectedResult": "Αναφορά από την πρώτη ανασκόπηση, επιβεβαιωμένη διόρθωση επαναλαμβανόμενου προβλήματος σε νέα συνομιλία και προγραμματισμένη ανασκόπηση για κάθε Παρασκευή.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "a5080d99b822faeee423a5cba4c04055797d556b3ec4607ee8ee5a72d5d8d04e",
-    "path": "references/workouts/el/weekly-ai-review.md"
+    "estimatedMinutes": 15
   },
   "how-ai-works": {
     "id": "4bfb7d7c-8e98-4560-a516-27cd7d86275e",
@@ -365,9 +293,7 @@
     "title": "Κατανοήστε πώς λειτουργεί η AI: πότε να την εμπιστεύεστε και πότε να ελέγχετε την απάντηση",
     "expectedResult": "Βελτιωμένη έκδοση της εργασίας αυτής της εβδομάδας, αριθμός που βρήκατε μόνοι σας στην πηγή και ο κανόνας σας στη μνήμη της AI.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 20,
-    "sha256": "aba78d1a990c016462c649e66cb02826baea9fa0b8f829de35cf02937d7770db",
-    "path": "references/workouts/el/how-ai-works.md"
+    "estimatedMinutes": 20
   },
   "ai-memory": {
     "id": "15110c30-6360-4eba-b408-f8b973e5dfe0",
@@ -375,9 +301,7 @@
     "title": "Καθαρίστε τη μνήμη AI: τι θυμάται για εσάς μεταξύ συνομιλιών",
     "expectedResult": "Μνήμη χωρίς παρωχημένες και διπλές εγγραφές, επαληθευμένη σε νέα συνομιλία, και κανόνας για το πώς η AI καταγράφει διορθώσεις.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "d0f0aefe5f38bb2058e065732f5d2301861060b350b7f5e1d7984c0567f8be5f",
-    "path": "references/workouts/el/ai-memory.md"
+    "estimatedMinutes": 15
   },
   "ai-disclosure": {
     "id": "01b00d56-761c-4897-a3e4-bba3d45b5bfc",
@@ -385,9 +309,7 @@
     "title": "Αναφέρετε πώς σας βοήθησε η AI: πρόταση για τον πελάτη σύμφωνα με τους κανόνες της εταιρείας",
     "expectedResult": "Κείμενο έτοιμο για αποστολή, σαφήνεια στους κανόνες της εταιρείας για την AI και οδηγία ώστε η AI να προτείνει μόνη της την πρόταση στο μέλλον.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "9c756d8d20ff26f136edf76e166f40c8469f85069cc3346f7c50cbdf905532c1",
-    "path": "references/workouts/el/ai-disclosure.md"
+    "estimatedMinutes": 15
   },
   "agent-permissions": {
     "id": "38b22a41-4291-463e-8b0d-bfc173a93e53",
@@ -395,9 +317,7 @@
     "title": "Ορίστε δικαιώματα στον πράκτορα: τι μπορεί να κάνει μόνος του και τι ποτέ χωρίς εσάς",
     "expectedResult": "Επιλεγμένη λειτουργία δικαιωμάτων, αυστηρά όρια στο αρχείο κανόνων για την AI και επαλήθευση σε πραγματική εργασία ότι η AI τα τηρεί.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "bbc10f9a75562e1628bfcd45a8d10fd95ee0d29cf207efa7b625b11eedb827e8",
-    "path": "references/workouts/el/agent-permissions.md"
+    "estimatedMinutes": 15
   },
   "live-web-data": {
     "id": "8969b5d0-8482-4185-91ab-008327c96c55",
@@ -405,9 +325,7 @@
     "title": "Αφήστε την AI να κατεβάσει ζωντανά δεδομένα: τρέχοντα στοιχεία με πηγή και ημερομηνία",
     "expectedResult": "Πίνακας με αριθμητικά δεδομένα για την εργασία σας, τα πιο σημαντικά επαληθευμένα στην πηγή και η διαδικασία που η AI θα εκτελέσει την επόμενη φορά με μία πρόταση.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "9c25e01bba314a1fb5a4e5907640d95ddec12428b78927d37378ee6e0043d34b",
-    "path": "references/workouts/el/live-web-data.md"
+    "estimatedMinutes": 15
   },
   "parallel-ai-workstreams": {
     "id": "be77c092-129c-490e-a122-a1d56a92f705",
@@ -415,9 +333,7 @@
     "title": "Διαχωρίστε την εργασία σε παράλληλα νήματα: Η AI εκτελεί όλα τα μέρη ταυτόχρονα",
     "expectedResult": "Ολοκληρωμένη μεγαλύτερη εργασία από παράλληλα νήματα, σύγκριση με τις αποφάσεις σας και κανόνας για μελλοντικό διαχωρισμό.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "3b5940ad7db28325b3a82bd387126f4632866228968e787dc0ec47ff61c11490",
-    "path": "references/workouts/el/parallel-ai-workstreams.md"
+    "estimatedMinutes": 15
   },
   "hooks": {
     "id": "a9a22bdc-ed72-409e-8f73-e377b9f41616",
@@ -425,9 +341,7 @@
     "title": "Ορίστε hook: έλεγχος εγγράφων που δεν παραλείπει η AI",
     "expectedResult": "Hook με έλεγχο σύμφωνα με τους κανόνες σας, ευρήματα σε παλαιότερα έγγραφα και αποτέλεσμα ελέγχου μετά από κάθε εργασία.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "f6ed434b753618cc3762989c869b5ea91899cf2b6fd91e9cbbc14f7da9c501cf",
-    "path": "references/workouts/el/hooks.md"
+    "estimatedMinutes": 15
   },
   "agent-work-status": {
     "id": "d686aada-d48b-4440-9fc7-391bdaa0f952",
@@ -435,8 +349,6 @@
     "title": "Αφήστε την AI να καταγράφει την κατάσταση των εργασιών: ο συνάδελφος ξέρει πού είναι η δουλειά σας",
     "expectedResult": "Μια εργασία ολοκληρωμένη από τη δημιουργία της εργασίας έως το κλείσιμό της, καταγραφή στο worklog και κανόνας που καθορίζει ότι η AI το κάνει πάντα έτσι.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "8e1fcd04a946cad965c1760b926a66d3cf850dab2a823458ae4056e71eef859e",
-    "path": "references/workouts/el/agent-work-status.md"
+    "estimatedMinutes": 15
   }
 }
