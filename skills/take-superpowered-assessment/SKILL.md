@@ -5,7 +5,7 @@ description: Assess the person's real AI work from evidence they provide in the 
 
 # Installed assessment authority
 
-Package version: 1.2.5. Static instructions: anthropic-static-instructions-v2.
+Package version: 1.2.6. Static instructions: anthropic-static-instructions-v2.
 Workflow: local-superpowered-assessment-v3. Prompt: mcp-assessment-prompt-v15. Methodology: superpowered-professional-mcp-v1.
 Installed static workflow SHA-256: 4f42de1273fa4b658b2b027af8c5ca93261dc43f61270424a87920e7d58d9e78.
 

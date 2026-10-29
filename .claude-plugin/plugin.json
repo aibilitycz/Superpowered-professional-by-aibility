@@ -1,6 +1,6 @@
 {
   "name": "superpowered-professional",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Superpowered coaching, report interpretation, and current-conversation review-before-save assessment skills for Claude.",
   "author": {
     "name": "aibility s.r.o.",
@@ -8,6 +8,9 @@
   },
   "homepage": "https://sp.aimee.coach",
   "privacyPolicyUrl": "https://sp.aimee.coach/en/privacy",
+  "documentationUrl": "https://github.com/aibilitycz/Superpowered-professional-by-aibility#readme",
+  "termsOfServiceUrl": "https://sp.aimee.coach/en/terms",
+  "supportUrl": "https://aibility.org/kontakt",
   "repository": "https://github.com/aibilitycz/Superpowered-professional-by-aibility",
   "license": "MIT",
   "keywords": [
