@@ -5,9 +5,7 @@
     "title": "Solve Today’s Task with AI",
     "expectedResult": "A finished output for today’s work and a clear understanding of when to involve AI earlier next time.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "3573a526642c656cb9a967fc919db0b7626479137971d949bc05759783c1fc93",
-    "path": "references/workouts/en/first-ai-use-case.md"
+    "estimatedMinutes": 15
   },
   "bezpecne-pouzivani": {
     "id": "617d9f46-44e4-452f-9c98-ba9f28afd151",
@@ -15,9 +13,7 @@
     "title": "Find Out What You Can Input into AI: The Rule for Your Account",
     "expectedResult": "A rule for your AI account with sources, verified in a new chat, and the first real material prepared according to it.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "36e7cfcf2cbb51e3b6da94f4c273045192a7560a3170dd4973916d47cd57aa42",
-    "path": "references/workouts/en/bezpecne-pouzivani.md"
+    "estimatedMinutes": 15
   },
   "when-chat-is-not-enough": {
     "id": "d9b1501e-2ebc-4149-b5f4-9e734615b80b",
@@ -25,9 +21,7 @@
     "title": "Let AI into Your Folder: When Regular Chat Is Not Enough",
     "expectedResult": "A new file with the task result that couldn’t be done in chat, plus rules for how AI will update it next time.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "a37dcd82326a59618f6895daf99446404da29090f73705920939307b05ba2c06",
-    "path": "references/workouts/en/when-chat-is-not-enough.md"
+    "estimatedMinutes": 15
   },
   "prace-s-daty": {
     "id": "453de387-e49f-4a13-ab7a-a8a25c8033c9",
@@ -35,9 +29,7 @@
     "title": "Ask Your Data: AI Calculates the Answer from an Export",
     "expectedResult": "An answer from all rows, one verified number in the table, and a saved procedure with a sentence for the next export.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "5c2db9bec4a81367731472aa546b7cb32b902c3870394f96f9cc5f22365ea0b5",
-    "path": "references/workouts/en/prace-s-daty.md"
+    "estimatedMinutes": 15
   },
   "ai-wbs-project": {
     "id": "41fd0db2-91a5-4e6e-afa9-507a3ff3fb17",
@@ -45,9 +37,7 @@
     "title": "Create an AI-WBS: Project Plan Divided Between People and AI",
     "expectedResult": "A plan in the project folder, the first step completed by AI, and a rule by which AI marks completed steps.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "490e9a4845eae901fa4670273e0502c93e60678cc538923ac6dd8f789728df32",
-    "path": "references/workouts/en/ai-wbs-project.md"
+    "estimatedMinutes": 15
   },
   "tvorba-prezentace": {
     "id": "23e6644c-0fd5-4e4e-9f4c-430a6d87588d",
@@ -55,9 +45,7 @@
     "title": "Prepare Your Presentation Outline: What to Say and How Many Minutes for Each Part",
     "expectedResult": "Key message, timed sections precisely matching your time, slides in the company template, and a rule for future presentations.",
     "minimumMinutes": 20,
-    "estimatedMinutes": 20,
-    "sha256": "4b421c8122dfdc7303d365644c102bd7c31fa23bc62f2a5faf117c28387a2a89",
-    "path": "references/workouts/en/tvorba-prezentace.md"
+    "estimatedMinutes": 20
   },
   "asistent": {
     "id": "2bf7ec90-25f8-4afb-8035-35f661512210",
@@ -65,9 +53,7 @@
     "title": "Create an AI Project: Guidelines and Materials for Every Chat",
     "expectedResult": "A project on one topic with guidelines and files, verified in a new chat, plus a line by which AI reports changes.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "c0800f5c74ad9045c4e37b9d13bbfc3fc4f3c2f3379df51c2abafac4c42e2b30",
-    "path": "references/workouts/en/asistent.md"
+    "estimatedMinutes": 15
   },
   "deep-research": {
     "id": "b6b23cd9-6c4c-4988-94a7-3fbc4d60285c",
@@ -75,9 +61,7 @@
     "title": "Do Deep Research",
     "expectedResult": "Deep Research with sources, contradictions, and clearly marked points that could not be verified.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "6cecfa79fa115a501cedbbfbec0bc2006e399737b1910367a5bd5ed1827afe42",
-    "path": "references/workouts/en/deep-research.md"
+    "estimatedMinutes": 15
   },
   "kontrola-vysledku": {
     "id": "08a0d07d-aefc-482c-a6c7-807175fdf6cd",
@@ -85,9 +69,7 @@
     "title": "Check AI Output: Numbers and Claims Against Source Data",
     "expectedResult": "Corrected output, one key number verified by your own review of the source, and a rule addressing the root cause of the error.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "5d3c52e4267f821ce68badee8e30e4f97ec69545e169126b90989b7a306fc38f",
-    "path": "references/workouts/en/kontrola-vysledku.md"
+    "estimatedMinutes": 15
   },
   "custom-instructions": {
     "id": "bd4b2942-008d-471d-9329-b509436ae93e",
@@ -95,9 +77,7 @@
     "title": "Set Up Custom Instructions: Permanent Guidelines for Every Chat",
     "expectedResult": "Custom Instructions configured in settings, verified on a real task, plus a guideline that lets AI remember corrections.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "6e286bdd1f1c17c93c4ebb91ce4408ea45c61ea39a46f58502ea829ae4eb4fdb",
-    "path": "references/workouts/en/custom-instructions.md"
+    "estimatedMinutes": 15
   },
   "pravidla-pro-tym": {
     "id": "ef103259-fa71-4d02-8435-97adecc7470a",
@@ -105,9 +85,7 @@
     "title": "Write AI Rules for Your Team: One Page for Colleagues and Their AI",
     "expectedResult": "An AI rules page in the team’s shared folder, a guideline that AI colleagues follow, and a new case resolved according to it.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "8b65cb02666bafe2c57b9f004d6ee32ae3607d82ea3c53615328fb79c3ad7514",
-    "path": "references/workouts/en/pravidla-pro-tym.md"
+    "estimatedMinutes": 15
   },
   "modely": {
     "id": "72400f16-e1d9-4238-adc3-c7efef980bf7",
@@ -115,9 +93,7 @@
     "title": "Switch Models by Task: Fast for Sorting, Strong for Decisions",
     "expectedResult": "Two completed tasks, an overview of task types with suitable models, and a reminder when to switch models.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "40f7671195cb20e98814a9903860015c0a5fb034a32f88cea2a138ea23040e5d",
-    "path": "references/workouts/en/modely.md"
+    "estimatedMinutes": 15
   },
   "panel-expertu": {
     "id": "448bf4de-2429-4ea1-8c22-b9da85f0762f",
@@ -125,9 +101,7 @@
     "title": "Convene an Expert Panel: AI Peer Review",
     "expectedResult": "A new version of the proposal with only accepted changes, minutes with reasons and procedure for convening the panel next time in one sentence.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 20,
-    "sha256": "c0a858d3f9ff6d0f881050dc32933c3ca2e7e56726e16ce85123bd73975cf4f7",
-    "path": "references/workouts/en/panel-expertu.md"
+    "estimatedMinutes": 20
   },
   "konverzace-do-struktury": {
     "id": "5dd6d8da-69c1-4f8a-aaf1-a8c53637761d",
@@ -135,9 +109,7 @@
     "title": "Process Meeting Transcript: Decisions and Tasks for the Project",
     "expectedResult": "A record from which a colleague can see who is responsible for what, the full transcript among the materials, and a rule for future meetings.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "9f1adf7ff66e7bee893ffd75f4a6360b78e4f322cfe0178a8c22742133379c13",
-    "path": "references/workouts/en/konverzace-do-struktury.md"
+    "estimatedMinutes": 15
   },
   "project-start-here": {
     "id": "574668de-5498-4906-884f-01345da3438d",
@@ -145,9 +117,7 @@
     "title": "Create Your README: Project Intro Page",
     "expectedResult": "Project README, the rule by which AI keeps it up to date, and verification in a new chat.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "b28c86f1b0bf6a53c848976fd80ece4641d50637841b00d365e4f609eb4fa43f",
-    "path": "references/workouts/en/project-start-here.md"
+    "estimatedMinutes": 15
   },
   "create-skill-from-proven-process": {
     "id": "baf15574-866c-40e2-a3eb-441540440365",
@@ -155,9 +125,7 @@
     "title": "Create Your Skill: Instructions AI Remembers",
     "expectedResult": "A skill for a recurring task, stored where AI can find it, and the next task of the same kind assigned with one sentence.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "b417108ad18b31b7b4f23564eab9069697ce26645ae616e9ffe71de2aa8ba5a6",
-    "path": "references/workouts/en/create-skill-from-proven-process.md"
+    "estimatedMinutes": 15
   },
   "risk-based-prototyping": {
     "id": "04590aea-aa96-4061-94cc-bd023483e977",
@@ -165,9 +133,7 @@
     "title": "Use Vibe Coding: AI Builds a Tool for Your Colleagues",
     "expectedResult": "A tool in a shared folder verified on a known case, handed over to a colleague, and a rule for updating the price list.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "e5bb6c0f8d020ca2f9f99cb21f8dfb4c62e10f35dda102fd7f99f75ac1527576",
-    "path": "references/workouts/en/risk-based-prototyping.md"
+    "estimatedMinutes": 15
   },
   "recurring-ai-task": {
     "id": "53e54522-56ff-4cd6-925b-f1aff015ecfa",
@@ -175,9 +141,7 @@
     "title": "Set Up a Scheduled Task: AI Works Automatically at a Regular Time",
     "expectedResult": "A corrected report based on today’s data and a scheduled task you know when it will first run and where to find the result.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "7ca74567e31e12c907bc80d0b96e25691d8435cddca61898ecde1a0184619c5e",
-    "path": "references/workouts/en/recurring-ai-task.md"
+    "estimatedMinutes": 15
   },
   "team-adoption-cycle": {
     "id": "3909921a-0b97-43ee-a98f-8c56ee2b643a",
@@ -185,9 +149,7 @@
     "title": "Show Your Colleagues What Works for You with AI: Ten Minutes at the Meeting",
     "expectedResult": "A demo script based on your case and a guide for colleagues, which AI adjusts after the meeting based on where they got stuck.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "9a32decc3f46d4872ff9c059438a682ea63fbd0bf874c64c137278e64348c4dd",
-    "path": "references/workouts/en/team-adoption-cycle.md"
+    "estimatedMinutes": 15
   },
   "ai-sprint": {
     "id": "184ae8ab-e68d-4b4e-a828-60769ae2d7a9",
@@ -195,9 +157,7 @@
     "title": "Organize an AI Sprint: A Usable Outcome by the Afternoon",
     "expectedResult": "A brief and invitation for the team, a usable outcome after the sprint, a worklog entry, and a process for next time.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "316ce544793dd561d7ade620a390f305d0d0c01087680b82e59e2a28f55bf877",
-    "path": "references/workouts/en/ai-sprint.md"
+    "estimatedMinutes": 15
   },
   "voice-as-primary-ai-input": {
     "id": "f4e1b5f8-97df-4ae2-89f6-548646d09653",
@@ -205,9 +165,7 @@
     "title": "Dictate AI Tasks: Voice Instead of Typing",
     "expectedResult": "Completed work from the dictated and corrected task description and a rule by which AI will first organize dictation next time.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "81ba53be3ce762eb6d7c80fe48cf53c5a292bae4a3ccda65d7e6769407dcc330",
-    "path": "references/workouts/en/voice-as-primary-ai-input.md"
+    "estimatedMinutes": 15
   },
   "pact-workspace": {
     "id": "e6ac65d7-2413-4449-9a3d-2ee36d23ac21",
@@ -215,9 +173,7 @@
     "title": "Set Up PACT: A Workspace for AI",
     "expectedResult": "A PACT folder with ongoing projects, a map for AI showing what is where, and verification on a real task.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "ff4275687c99f5c452e7000326f6b9829f23e8f729ba3195fece37b876bbce84",
-    "path": "references/workouts/en/pact-workspace.md"
+    "estimatedMinutes": 15
   },
   "project-worklog": {
     "id": "efb4f162-b04b-4728-b983-b5a759797bc3",
@@ -225,9 +181,7 @@
     "title": "Create a Worklog: Project Journal",
     "expectedResult": "A worklog with initial entries, a rule for AI to update it after work, and verification in a new chat.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "faacd436c00dc987b971ce6f109364dafe6515234c5845282151e1a504001972",
-    "path": "references/workouts/en/project-worklog.md"
+    "estimatedMinutes": 15
   },
   "agents-md": {
     "id": "4c781875-3a84-4d3a-ba7f-8ac3d58d7819",
@@ -235,9 +189,7 @@
     "title": "Create AGENTS.md: AI Rules in a Single File",
     "expectedResult": "A file with your rules that AI reads at the start of every task, verified in a new chat.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "5876b37b40692e660b37e1061c61702ac282c32ae6f4c8ab28ebbc9117575f1b",
-    "path": "references/workouts/en/agents-md.md"
+    "estimatedMinutes": 15
   },
   "plugin-connector": {
     "id": "b39206bc-9b05-46df-b5ce-660b84b7c7f2",
@@ -245,9 +197,7 @@
     "title": "Connect the Connector: AI Works Directly in Your Applications",
     "expectedResult": "Connected mail and calendar, sent replies to the most urgent emails, and a saved rule for next time.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "81e290b2598c806fc71b71ca9fd6bc77443d147df13d971ded6b8fbc1409024e",
-    "path": "references/workouts/en/plugin-connector.md"
+    "estimatedMinutes": 15
   },
   "cross-app-workflow": {
     "id": "c44b8907-36ec-4f2d-8ee9-e399a556944a",
@@ -255,9 +205,7 @@
     "title": "Set Up Cross-App Workflow: AI Transfers Data for You",
     "expectedResult": "Data transferred from one app to another, draft follow-up emails, and saved instructions for next time.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "091ee49089e60f0acb8ce51edc5d339f59674bf6e1135bae2de441e49bb0bf12",
-    "path": "references/workouts/en/cross-app-workflow.md"
+    "estimatedMinutes": 15
   },
   "browser-control": {
     "id": "794f4724-bf19-4672-b36c-52e320aa1c14",
@@ -265,9 +213,7 @@
     "title": "Use Browser Control: AI Clicks in the Browser for You",
     "expectedResult": "The web task is completed without your clicks, the result verified on the source page, and the procedure saved for next time.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "17851abf3b42a113cc3eef25beb65b345553321d0d149cf8f8d5205a41c4fde2",
-    "path": "references/workouts/en/browser-control.md"
+    "estimatedMinutes": 15
   },
   "computer-control": {
     "id": "cc2adfbc-d3cd-438f-ae96-719a7f0dae86",
@@ -275,9 +221,7 @@
     "title": "Use Computer Control: AI Operates Programs on Your Computer for You",
     "expectedResult": "Task in a program without a connector completed without clicking, time compared to manual work, and procedure saved for next time.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 20,
-    "sha256": "b783dcf8eb1b5e84f9a637acabb355d5e8e707b56874909b48ef315def9d274c",
-    "path": "references/workouts/en/computer-control.md"
+    "estimatedMinutes": 20
   },
   "tone-of-voice": {
     "id": "25504faf-6e9e-4d4b-8f57-d3aac35b36a8",
@@ -285,9 +229,7 @@
     "title": "Save Your Tone of Voice: Your Writing Style in a File",
     "expectedResult": "A file with rules and examples of your style, plus the same email without and with it, so you can see the difference.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "7bc65c4c697ba10e6dc038d5d91f282d9fe572f1c3f2f91701e8ad06e6737527",
-    "path": "references/workouts/en/tone-of-voice.md"
+    "estimatedMinutes": 15
   },
   "anti-slop": {
     "id": "d9b9998d-dada-4c02-8acb-893a632a47d2",
@@ -295,9 +237,7 @@
     "title": "Run Text Through Anti-Slop: Make It Sound Human, Not AI",
     "expectedResult": "Text ready to send, a saved list of phrases you want to avoid, and a rule by which AI monitors future texts.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "fdf7ad4dc13fee2ce3e0d6d46b2eab78ba6f3ac3d4fa6bcb9a1ae7a5ba44b177",
-    "path": "references/workouts/en/anti-slop.md"
+    "estimatedMinutes": 15
   },
   "idea-file": {
     "id": "00c15e2b-f3e7-464c-96d6-c408d3439fa0",
@@ -305,9 +245,7 @@
     "title": "Prepare an Idea File: One-Page Idea",
     "expectedResult": "An idea file that another AI understands as well as you do, and a rule for next time: “make an idea file from this.”",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "74df4486d24f048c63b38b989a8f88691fd220252c9c71b0d7f7bebb849d1b21",
-    "path": "references/workouts/en/idea-file.md"
+    "estimatedMinutes": 15
   },
   "handoff": {
     "id": "d789dae0-8c2a-4a75-9f86-715733d2038c",
@@ -315,9 +253,7 @@
     "title": "Prepare a Handoff: Transferring Work in Progress",
     "expectedResult": "A handoff that lets a new chat continue without questions, plus a rule so next time you just write “handoff.”",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "85c10c894e8f4e76e377cf681b50abdcab43c12f2746db19a00b7a52fc13d348",
-    "path": "references/workouts/en/handoff.md"
+    "estimatedMinutes": 15
   },
   "agent-task": {
     "id": "a9d6917c-29f7-4c53-a6a9-83e39f702f79",
@@ -325,9 +261,7 @@
     "title": "Assign a Task to the Agent: AI Will Complete It Independently",
     "expectedResult": "A completed long task accepted based on evidence for each condition, plus a rule so AI proposes conditions itself next time.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "691a4b01757426ba749f28e420361cb5fcafeab46c2d76e4b9fc4444dab76179",
-    "path": "references/workouts/en/agent-task.md"
+    "estimatedMinutes": 15
   },
   "web-page-output": {
     "id": "dafeaecd-21fb-451f-a5c3-7bd24e9c3277",
@@ -335,9 +269,7 @@
     "title": "Send a Link Instead of an Attachment: AI-Generated Web Page",
     "expectedResult": "A page from your document, a link verified on your phone and sent instead of an attachment, and a saved layout template for next time.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "0aea61d77b63cad7da61bad321cb3da09f2ef151bd031b8b8f6785cc4fb1942c",
-    "path": "references/workouts/en/web-page-output.md"
+    "estimatedMinutes": 15
   },
   "tokens-limits": {
     "id": "43ad7c77-aa3f-4d65-a9cf-f449481c8081",
@@ -345,9 +277,7 @@
     "title": "Save Tokens: Make Your AI Limit Last the Whole Week",
     "expectedResult": "Work in progress in a new short chat and rules by which AI saves tokens automatically.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "873c69d090b9aa9deba9099d113493b49556134aac83c00a4029b9ae0a037515",
-    "path": "references/workouts/en/tokens-limits.md"
+    "estimatedMinutes": 15
   },
   "weekly-ai-review": {
     "id": "658f51cc-9ed8-4db8-911e-f6bb0f5a95aa",
@@ -355,9 +285,7 @@
     "title": "Establish a Weekly Review: Clean Up Your AI Setup",
     "expectedResult": "Report from the first review, verified fix of a recurring issue in a new chat, and review scheduled for every Friday.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "898172f6dfef7d7cf17308cf4090c7a7abb5b9b6ac13fe33649cca1a7cc8902b",
-    "path": "references/workouts/en/weekly-ai-review.md"
+    "estimatedMinutes": 15
   },
   "how-ai-works": {
     "id": "4bfb7d7c-8e98-4560-a516-27cd7d86275e",
@@ -365,9 +293,7 @@
     "title": "Understand How AI Works: When to Trust It and When to Verify Its Answers",
     "expectedResult": "An improved version of this week’s task, a number you found yourself in a source, and your rule saved in AI’s memory.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 20,
-    "sha256": "1c6ef62b18e04cc0a298dbfb11eeff3664d8f24fe6e2db64fec7e760c91f3d35",
-    "path": "references/workouts/en/how-ai-works.md"
+    "estimatedMinutes": 20
   },
   "ai-memory": {
     "id": "15110c30-6360-4eba-b408-f8b973e5dfe0",
@@ -375,9 +301,7 @@
     "title": "Clean Up Your AI Memory: What It Remembers About You Between Chats",
     "expectedResult": "Memory free of outdated and duplicate records, verified in a new chat, plus a rule on how AI records corrections.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "aada8ec4df324d3acd00b59ad1cbaf5da7f779bd41114625e6e6fdcc3fc856cd",
-    "path": "references/workouts/en/ai-memory.md"
+    "estimatedMinutes": 15
   },
   "ai-disclosure": {
     "id": "01b00d56-761c-4897-a3e4-bba3d45b5bfc",
@@ -385,9 +309,7 @@
     "title": "State What AI Helped You With: Client Sentence According to Company Rules",
     "expectedResult": "Text ready to send, clarity on company AI rules, and an instruction for AI to suggest the sentence automatically next time.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "5b6728861f17a2440fe4e4938473e276bb80bf5e5d90f52147d12b5f4929a64e",
-    "path": "references/workouts/en/ai-disclosure.md"
+    "estimatedMinutes": 15
   },
   "agent-permissions": {
     "id": "38b22a41-4291-463e-8b0d-bfc173a93e53",
@@ -395,9 +317,7 @@
     "title": "Set Agent Permissions: What It Can Do Alone and What Never Without You",
     "expectedResult": "Chosen permission mode, hard boundaries in the AI rules file, and verification on a real task that AI respects them.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "03a80b282a29ab72a59b7124b058c5f265e3672400959f3f7f35139fbd4ecd2e",
-    "path": "references/workouts/en/agent-permissions.md"
+    "estimatedMinutes": 15
   },
   "live-web-data": {
     "id": "8969b5d0-8482-4185-91ab-008327c96c55",
@@ -405,9 +325,7 @@
     "title": "Let AI Download Live Data: Current Figures with Source and Date",
     "expectedResult": "A table of figures for your task, the most important verified in the source, and a procedure AI will run next time on a single sentence.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "584475d00ca2784ab4f4fc200786de0121a6b51d2538418c3e0582a78fc86dd2",
-    "path": "references/workouts/en/live-web-data.md"
+    "estimatedMinutes": 15
   },
   "parallel-ai-workstreams": {
     "id": "be77c092-129c-490e-a122-a1d56a92f705",
@@ -415,9 +333,7 @@
     "title": "Split Work into Parallel Threads: AI Handles All Parts Simultaneously",
     "expectedResult": "Completed larger work from concurrent threads, comparison with your decisions, and a rule for future splitting.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "f06ed1fade947173ced29221ca7b41750aef9e1e9e848917f47415a6b7eac441",
-    "path": "references/workouts/en/parallel-ai-workstreams.md"
+    "estimatedMinutes": 15
   },
   "hooks": {
     "id": "a9a22bdc-ed72-409e-8f73-e377b9f41616",
@@ -425,9 +341,7 @@
     "title": "Set Up a Hook: Document Review AI Won't Miss",
     "expectedResult": "A hook with checks based on your rules, findings in older documents, and review results after each task.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "752ef2cc2ca4a5cc75b104738b9fc088e4ed62e58af74daf5079584fd5331610",
-    "path": "references/workouts/en/hooks.md"
+    "estimatedMinutes": 15
   },
   "agent-work-status": {
     "id": "d686aada-d48b-4440-9fc7-391bdaa0f952",
@@ -435,8 +349,6 @@
     "title": "Let AI Record Task Status: Your Colleague Knows Where Your Work Stands",
     "expectedResult": "One work item completed from task creation to closure, a worklog entry, and a rule that makes AI do this every time.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "896fba57dda1cf87e4399b2320c6814eb13d9ef53ff5bd03da1bf7ce586a0b7f",
-    "path": "references/workouts/en/agent-work-status.md"
+    "estimatedMinutes": 15
   }
 }

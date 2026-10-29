@@ -5,9 +5,7 @@
     "title": "Résolvez la tâche du jour avec l’IA",
     "expectedResult": "Production finalisée pour le travail du jour et une situation claire où impliquer l’IA plus tôt la prochaine fois.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "fab8a4ad4579aa19effd26915ebd1fe82ed931cd4f4508862a48e9c3d7eee4e3",
-    "path": "references/workouts/fr/first-ai-use-case.md"
+    "estimatedMinutes": 15
   },
   "bezpecne-pouzivani": {
     "id": "617d9f46-44e4-452f-9c98-ba9f28afd151",
@@ -15,9 +13,7 @@
     "title": "Découvrez ce que vous pouvez mettre dans l'IA : règle pour votre compte",
     "expectedResult": "Règle pour votre compte IA avec sources, vérifiée dans un nouveau chat, et premier document réel préparé selon celle-ci.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "4390c7a09eda27ebd4e74f77628aa99245f7fa7d83f84b9704359c169203c559",
-    "path": "references/workouts/fr/bezpecne-pouzivani.md"
+    "estimatedMinutes": 15
   },
   "when-chat-is-not-enough": {
     "id": "d9b1501e-2ebc-4149-b5f4-9e734615b80b",
@@ -25,9 +21,7 @@
     "title": "Intégrez l'IA à votre dossier : quand le chat classique ne suffit pas",
     "expectedResult": "Un nouveau fichier avec le résultat de la tâche impossible à réaliser en chat, et les règles pour que l'IA le complète automatiquement la prochaine fois.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "054c178434d76e4beb0549d65995d0dc10d7d400d47b056c3bf2565876ca76a0",
-    "path": "references/workouts/fr/when-chat-is-not-enough.md"
+    "estimatedMinutes": 15
   },
   "prace-s-daty": {
     "id": "453de387-e49f-4a13-ab7a-a8a25c8033c9",
@@ -35,9 +29,7 @@
     "title": "Interrogez vos données : l'IA calcule la réponse à partir d'un export",
     "expectedResult": "Réponse issue de toutes les lignes, un chiffre vérifié dans le tableau et une procédure enregistrée avec une phrase pour le prochain export.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "172fd627ded45f4ce50dec33d640ad7bbff79b39d51d03b5d45a27eaf59eee19",
-    "path": "references/workouts/fr/prace-s-daty.md"
+    "estimatedMinutes": 15
   },
   "ai-wbs-project": {
     "id": "41fd0db2-91a5-4e6e-afa9-507a3ff3fb17",
@@ -45,9 +37,7 @@
     "title": "Créez un AI-WBS : plan de projet réparti entre humains et IA",
     "expectedResult": "Plan dans le dossier du projet, première étape réalisée par l'IA et règle pour que l'IA marque les étapes terminées.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "b64e24da98fb24fcae455f31d7aa5052af9ee3eab19d0d5c31c58ce841abf784",
-    "path": "references/workouts/fr/ai-wbs-project.md"
+    "estimatedMinutes": 15
   },
   "tvorba-prezentace": {
     "id": "23e6644c-0fd5-4e4e-9f4c-430a6d87588d",
@@ -55,9 +45,7 @@
     "title": "Préparez le plan de votre présentation : quoi dire et combien de minutes pour chaque partie",
     "expectedResult": "Message principal, parties minutées précisément selon votre temps, diapositives dans le modèle de l’entreprise et règle pour les prochaines présentations.",
     "minimumMinutes": 20,
-    "estimatedMinutes": 20,
-    "sha256": "6033d3aa98b2917ca58904d0a2934ec079a9ce386561443d23ff5a9ee34b00bd",
-    "path": "references/workouts/fr/tvorba-prezentace.md"
+    "estimatedMinutes": 20
   },
   "asistent": {
     "id": "2bf7ec90-25f8-4afb-8035-35f661512210",
@@ -65,9 +53,7 @@
     "title": "Créez un projet dans l'IA : documents et consignes pour chaque chat",
     "expectedResult": "Un projet thématique avec consignes et fichiers, validé dans un nouveau chat, et une ligne selon laquelle l'IA signale les modifications.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "e95d52207169379df450f346988a8e6d963ca492965664c2ee15ddf22ea53ba0",
-    "path": "references/workouts/fr/asistent.md"
+    "estimatedMinutes": 15
   },
   "deep-research": {
     "id": "b6b23cd9-6c4c-4988-94a7-3fbc4d60285c",
@@ -75,9 +61,7 @@
     "title": "Faites une Deep Research",
     "expectedResult": "Deep Research avec sources, contradictions et zones clairement identifiées comme non vérifiées.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "ec160a5abd1c4b2781004d39cdc11a52e02185b77a8f6829173308775eb19c19",
-    "path": "references/workouts/fr/deep-research.md"
+    "estimatedMinutes": 15
   },
   "kontrola-vysledku": {
     "id": "08a0d07d-aefc-482c-a6c7-807175fdf6cd",
@@ -85,9 +69,7 @@
     "title": "Vérifiez la sortie de l'IA : chiffres et affirmations contre les sources",
     "expectedResult": "Sortie corrigée, un chiffre clé vérifié directement dans la source et une règle contre la cause de l'erreur.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "152c4f782163edfcade0a6b64638f0fdd41e2bbf14ac9955a7feaeb3a7d0a6f6",
-    "path": "references/workouts/fr/kontrola-vysledku.md"
+    "estimatedMinutes": 15
   },
   "custom-instructions": {
     "id": "bd4b2942-008d-471d-9329-b509436ae93e",
@@ -95,9 +77,7 @@
     "title": "Configurez vos Custom Instructions : directives permanentes pour chaque chat",
     "expectedResult": "Custom Instructions configurées dans les paramètres, validées sur une tâche réelle, et directive permettant à l’IA de mémoriser les corrections.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "ba6255cd0c073398a8ad099906cd6235194c43fa8bceb01467e59bea3fc624b7",
-    "path": "references/workouts/fr/custom-instructions.md"
+    "estimatedMinutes": 15
   },
   "pravidla-pro-tym": {
     "id": "ef103259-fa71-4d02-8435-97adecc7470a",
@@ -105,9 +85,7 @@
     "title": "Rédigez les règles d’IA pour l’équipe : une page pour les collègues et leur IA",
     "expectedResult": "Une page de règles d’IA dans le dossier partagé de l’équipe, une consigne que l’IA des collègues suit, et un nouveau cas résolu selon ces règles.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "9234e75fcd497c1e0081926f0473695ef4d114a41295833297ba39c18d3f32b4",
-    "path": "references/workouts/fr/pravidla-pro-tym.md"
+    "estimatedMinutes": 15
   },
   "modely": {
     "id": "72400f16-e1d9-4238-adc3-c7efef980bf7",
@@ -115,9 +93,7 @@
     "title": "Changez de modèle selon la tâche : rapide pour le tri, puissant pour la décision",
     "expectedResult": "Deux tâches terminées, un aperçu des types de travail adaptés à chaque modèle et un rappel pour savoir quand changer de modèle.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "c4f47b3ceafd47d3b377ce2294d2a0235ae0b89b1f43518c5d638046423e6edf",
-    "path": "references/workouts/fr/modely.md"
+    "estimatedMinutes": 15
   },
   "panel-expertu": {
     "id": "448bf4de-2429-4ea1-8c22-b9da85f0762f",
@@ -125,9 +101,7 @@
     "title": "Convoquez un panel d’experts : opposition par l’IA",
     "expectedResult": "Nouvelle version de la proposition avec uniquement les modifications acceptées, compte-rendu des raisons et procédure pour convoquer le panel la prochaine fois en une phrase.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 20,
-    "sha256": "9fec445ca61af4eab9334dc9f84e216dfa573aec29b72478030484b9730d915f",
-    "path": "references/workouts/fr/panel-expertu.md"
+    "estimatedMinutes": 20
   },
   "konverzace-do-struktury": {
     "id": "5dd6d8da-69c1-4f8a-aaf1-a8c53637761d",
@@ -135,9 +109,7 @@
     "title": "Traitez la transcription de la réunion : décisions et tâches du projet",
     "expectedResult": "Une synthèse permettant à un collègue de savoir qui fait quoi, la transcription complète parmi les documents, et une règle pour les prochaines réunions.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "fe5abfd39a76978cc96b3b9e8df11f18776437e2102885f455ebe20b905672d1",
-    "path": "references/workouts/fr/konverzace-do-struktury.md"
+    "estimatedMinutes": 15
   },
   "project-start-here": {
     "id": "574668de-5498-4906-884f-01345da3438d",
@@ -145,9 +117,7 @@
     "title": "Créez votre README : page d'accueil du projet",
     "expectedResult": "README du projet, règle selon laquelle l'IA le maintient à jour, et vérification dans un nouveau chat.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "2f95d52ed91ea191d0c3799ade8cef286f940a51f643aba7c0db22cabf4925ad",
-    "path": "references/workouts/fr/project-start-here.md"
+    "estimatedMinutes": 15
   },
   "create-skill-from-proven-process": {
     "id": "baf15574-866c-40e2-a3eb-441540440365",
@@ -155,9 +125,7 @@
     "title": "Créez une compétence : un guide que l'IA retient",
     "expectedResult": "Une compétence pour une tâche régulière, enregistrée là où l'IA peut la retrouver, et une nouvelle tâche du même type lancée en une phrase.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "192a30080fcf45e7c6f0f8356cdde31d2f616573049cb50e0dd4fc6d3d29ed9c",
-    "path": "references/workouts/fr/create-skill-from-proven-process.md"
+    "estimatedMinutes": 15
   },
   "risk-based-prototyping": {
     "id": "04590aea-aa96-4061-94cc-bd023483e977",
@@ -165,9 +133,7 @@
     "title": "Utilisez le vibe coding : l’IA crée un outil pour vos collègues",
     "expectedResult": "Un outil dans un dossier partagé validé sur un cas connu, remis à un collègue, et une règle pour modifier la tarification.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "d30f2286f1d1914435a4388db4bc1be5ce3547009a9c0f75291b80463d260a97",
-    "path": "references/workouts/fr/risk-based-prototyping.md"
+    "estimatedMinutes": 15
   },
   "recurring-ai-task": {
     "id": "53e54522-56ff-4cd6-925b-f1aff015ecfa",
@@ -175,9 +141,7 @@
     "title": "Configurez une tâche planifiée : l'IA travaille seule à heure fixe",
     "expectedResult": "Un rapport corrigé avec les données du jour et une tâche planifiée dont vous connaissez la première exécution et où trouver le résultat.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "30dd92a059e708b3c582c343fbffa1d45167060cc99c2e28c21df2f5dce57407",
-    "path": "references/workouts/fr/recurring-ai-task.md"
+    "estimatedMinutes": 15
   },
   "team-adoption-cycle": {
     "id": "3909921a-0b97-43ee-a98f-8c56ee2b643a",
@@ -185,9 +149,7 @@
     "title": "Montrez à vos collègues ce qui fonctionne avec l'IA : dix minutes en réunion",
     "expectedResult": "Un scénario de démonstration basé sur votre cas et un processus avec guide pour les collègues, que l'IA ajuste après la réunion selon les difficultés rencontrées.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "f6fd8b1397bc6d24194a6fdfd2d873bae9c471d46be383508e4cdf85e7944dc0",
-    "path": "references/workouts/fr/team-adoption-cycle.md"
+    "estimatedMinutes": 15
   },
   "ai-sprint": {
     "id": "184ae8ab-e68d-4b4e-a828-60769ae2d7a9",
@@ -195,9 +157,7 @@
     "title": "Organisez un sprint IA : un projet terminé en une après-midi, utilisé par l'équipe",
     "expectedResult": "Cahier des charges et invitation pour l'équipe, après le sprint un outil utilisé par l'équipe, un enregistrement dans le worklog et une méthode pour la prochaine fois.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "f8c1c851d0a2e2ffc7ad392c97a7c24bad90ed4bcd4df7bedff9be4de9668c57",
-    "path": "references/workouts/fr/ai-sprint.md"
+    "estimatedMinutes": 15
   },
   "voice-as-primary-ai-input": {
     "id": "f4e1b5f8-97df-4ae2-89f6-548646d09653",
@@ -205,9 +165,7 @@
     "title": "Dictez la tâche à l’IA : la voix plutôt que l’écriture",
     "expectedResult": "Travail finalisé à partir d’un cahier des charges dicté et corrigé, et une règle pour que l’IA organise d’abord la dictée elle-même la prochaine fois.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "702408ef478fdaf86da8488c7c583a16f7442a651a528151f9402c71f96c570d",
-    "path": "references/workouts/fr/voice-as-primary-ai-input.md"
+    "estimatedMinutes": 15
   },
   "pact-workspace": {
     "id": "e6ac65d7-2413-4449-9a3d-2ee36d23ac21",
@@ -215,9 +173,7 @@
     "title": "Créez votre PACT : espace de travail pour l'IA",
     "expectedResult": "Un dossier PACT avec les projets en cours, une carte pour l'IA indiquant où tout se trouve, et une validation sur une tâche réelle.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "c0b9a88047c1dd6bf4fee3517ad158b656d236097f14aa8e6eb99a0688b5c016",
-    "path": "references/workouts/fr/pact-workspace.md"
+    "estimatedMinutes": 15
   },
   "project-worklog": {
     "id": "efb4f162-b04b-4728-b983-b5a759797bc3",
@@ -225,9 +181,7 @@
     "title": "Créez un worklog : journal de projet",
     "expectedResult": "Worklog avec les premiers enregistrements, règle selon laquelle l’IA le complète après chaque travail, et vérification dans un nouveau chat.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "eff5ea9b8b911ba96c8b9e7003d322e8d07039af5ec450354721fcce49a18723",
-    "path": "references/workouts/fr/project-worklog.md"
+    "estimatedMinutes": 15
   },
   "agents-md": {
     "id": "4c781875-3a84-4d3a-ba7f-8ac3d58d7819",
@@ -235,9 +189,7 @@
     "title": "Créez votre AGENTS.md : règles pour l'IA dans un seul fichier",
     "expectedResult": "Un fichier avec vos règles que l'IA lit au début de chaque tâche, vérifié dans une nouvelle conversation.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "2f3de0492a1fc344a952adca247ebfa9c47e337739b31cc9e84c91b765e27f63",
-    "path": "references/workouts/fr/agents-md.md"
+    "estimatedMinutes": 15
   },
   "plugin-connector": {
     "id": "b39206bc-9b05-46df-b5ce-660b84b7c7f2",
@@ -245,9 +197,7 @@
     "title": "Connectez le connecteur : l'IA travaille directement dans vos applications",
     "expectedResult": "Messagerie et calendrier connectés, réponses envoyées aux e-mails les plus urgents et règle enregistrée pour la prochaine fois.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "600984bfab980b2f3041aa1e9b15b60305c69951846c5f2270708680a6cf86ff",
-    "path": "references/workouts/fr/plugin-connector.md"
+    "estimatedMinutes": 15
   },
   "cross-app-workflow": {
     "id": "c44b8907-36ec-4f2d-8ee9-e399a556944a",
@@ -255,9 +205,7 @@
     "title": "Configurez un workflow multi-applications : l'IA transfère les données pour vous",
     "expectedResult": "Données transférées d'une application à une autre, brouillons d'e-mails de suivi et consignes enregistrées pour la prochaine fois.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "a95732fb171bcb8e398fdf75210b97c4d59b00452a976b4c3b92d0127153c930",
-    "path": "references/workouts/fr/cross-app-workflow.md"
+    "estimatedMinutes": 15
   },
   "browser-control": {
     "id": "794f4724-bf19-4672-b36c-52e320aa1c14",
@@ -265,9 +213,7 @@
     "title": "Utilisez Browser control : l’IA clique pour vous dans le navigateur",
     "expectedResult": "Tâche web terminée sans clic de votre part, résultat vérifié sur la page source et procédure enregistrée pour la prochaine fois.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "e3d38e494aa81e75ed9b853ade332a2b16c2a93d53f127217dce183c2f7c39fc",
-    "path": "references/workouts/fr/browser-control.md"
+    "estimatedMinutes": 15
   },
   "computer-control": {
     "id": "cc2adfbc-d3cd-438f-ae96-719a7f0dae86",
@@ -275,9 +221,7 @@
     "title": "Utilisez Computer control : l’IA contrôle les programmes sur votre ordinateur",
     "expectedResult": "Tâche dans un programme sans connecteur terminée sans clic, comparaison du temps avec le travail manuel et procédure enregistrée pour la prochaine fois.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 20,
-    "sha256": "9ed17f402007ce1f76e76c1a3c78c9bd6aaca475cb9ab9af318c18e5ccd3e458",
-    "path": "references/workouts/fr/computer-control.md"
+    "estimatedMinutes": 20
   },
   "tone-of-voice": {
     "id": "25504faf-6e9e-4d4b-8f57-d3aac35b36a8",
@@ -285,9 +229,7 @@
     "title": "Enregistrez votre tone of voice : votre style d’écriture dans un fichier",
     "expectedResult": "Un fichier avec les règles et exemples de votre style, ainsi qu’un même e-mail sans et avec ce fichier pour voir la différence.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "a233c368d441b3ea93f8724ebf2b9723234846a345d733f46120dfd8776d0997",
-    "path": "references/workouts/fr/tone-of-voice.md"
+    "estimatedMinutes": 15
   },
   "anti-slop": {
     "id": "d9b9998d-dada-4c02-8acb-893a632a47d2",
@@ -295,9 +237,7 @@
     "title": "Passez le texte à l’anti-slop : qu’il ne sonne pas comme écrit par une IA",
     "expectedResult": "Texte prêt à être envoyé, liste enregistrée des tournures à éviter, et règle selon laquelle l’IA contrôle les prochains textes.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "f570b1418746284109fcc5e323908d8b08d32e2adb93f305491c29c5532d9f23",
-    "path": "references/workouts/fr/anti-slop.md"
+    "estimatedMinutes": 15
   },
   "idea-file": {
     "id": "00c15e2b-f3e7-464c-96d6-c408d3439fa0",
@@ -305,9 +245,7 @@
     "title": "Préparez un idea file : une idée en une page",
     "expectedResult": "Un idea file que l’autre IA comprend aussi bien que vous, et la règle pour la prochaine fois : « fais-en un idea file ».",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "858635d57d7c02df7cea8898d1ae0ae494b2728be69471287541a99596bbfc94",
-    "path": "references/workouts/fr/idea-file.md"
+    "estimatedMinutes": 15
   },
   "handoff": {
     "id": "d789dae0-8c2a-4a75-9f86-715733d2038c",
@@ -315,9 +253,7 @@
     "title": "Préparez le handoff : transmission du travail en cours",
     "expectedResult": "Un handoff permettant au nouveau chat de poursuivre sans questions, et une règle pour que la prochaine fois il suffise d’écrire « handoff ».",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "e5d5eef0dc7787369c17f110753abbde814319d287ac6653c466c4d047899b89",
-    "path": "references/workouts/fr/handoff.md"
+    "estimatedMinutes": 15
   },
   "agent-task": {
     "id": "a9d6917c-29f7-4c53-a6a9-83e39f702f79",
@@ -325,9 +261,7 @@
     "title": "Attribuez une tâche à un agent : l’IA la mène à bien seule",
     "expectedResult": "Tâche longue terminée, reprise selon la preuve pour chaque condition, avec une règle pour que l’IA propose elle-même les conditions la prochaine fois.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "86fb9eeb574590bbcf3f67e98c345ed6da5cf107e6aae561f490c5bea983214a",
-    "path": "references/workouts/fr/agent-task.md"
+    "estimatedMinutes": 15
   },
   "web-page-output": {
     "id": "dafeaecd-21fb-451f-a5c3-7bd24e9c3277",
@@ -335,9 +269,7 @@
     "title": "Envoyez un lien au lieu d’une pièce jointe : page web générée par l’IA",
     "expectedResult": "Une page issue de votre document, un lien vérifié sur téléphone et envoyé à la place de la pièce jointe, et un modèle de mise en page enregistré pour la prochaine fois.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "19d552a43adb0efa621c9f56ba627e7b4b150073913cc5712d3c60a4d19c663f",
-    "path": "references/workouts/fr/web-page-output.md"
+    "estimatedMinutes": 15
   },
   "tokens-limits": {
     "id": "43ad7c77-aa3f-4d65-a9cf-f449481c8081",
@@ -345,9 +277,7 @@
     "title": "Économisez vos tokens : faites durer votre quota AI toute la semaine",
     "expectedResult": "Travail en cours dans une nouvelle conversation courte et règles selon lesquelles l’IA économise les tokens automatiquement.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "b858222e2ad357a356be59c33e2a8ef017ab60d71f4e6e056592e11ff85e7b79",
-    "path": "references/workouts/fr/tokens-limits.md"
+    "estimatedMinutes": 15
   },
   "weekly-ai-review": {
     "id": "658f51cc-9ed8-4db8-911e-f6bb0f5a95aa",
@@ -355,9 +285,7 @@
     "title": "Mettez en place une revue hebdomadaire : nettoyage de vos réglages AI",
     "expectedResult": "Rapport de la première revue, correction de l’obstacle récurrent vérifiée dans un nouveau chat et revue planifiée chaque vendredi.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "f877c536ad206eec29d9e08ab97a3d22588773964ee27ba465f50a2d415ce254",
-    "path": "references/workouts/fr/weekly-ai-review.md"
+    "estimatedMinutes": 15
   },
   "how-ai-works": {
     "id": "4bfb7d7c-8e98-4560-a516-27cd7d86275e",
@@ -365,9 +293,7 @@
     "title": "Découvrez comment fonctionne l'IA : quand lui faire confiance et quand vérifier la réponse",
     "expectedResult": "Une meilleure version de la tâche de cette semaine, un chiffre que vous avez trouvé vous-même dans une source, et votre règle mémorisée dans l'IA.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 20,
-    "sha256": "83f73d2cf9cea60be65875a621096a37da487a3f10430d22da3f6b1116d995f3",
-    "path": "references/workouts/fr/how-ai-works.md"
+    "estimatedMinutes": 20
   },
   "ai-memory": {
     "id": "15110c30-6360-4eba-b408-f8b973e5dfe0",
@@ -375,9 +301,7 @@
     "title": "Rangez la mémoire de l’IA : ce qu’elle retient de vous entre les conversations",
     "expectedResult": "Mémoire débarrassée des doublons et données périmées, validée dans une nouvelle conversation, avec une règle pour que l’IA enregistre correctement les corrections.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "629cec461cdab54d7926ade911d2faedfcca4889bf9e851a7d26982e5233804c",
-    "path": "references/workouts/fr/ai-memory.md"
+    "estimatedMinutes": 15
   },
   "ai-disclosure": {
     "id": "01b00d56-761c-4897-a3e4-bba3d45b5bfc",
@@ -385,9 +309,7 @@
     "title": "Indiquez comment l'IA vous a aidé : phrase pour le client selon les règles de l'entreprise",
     "expectedResult": "Texte prêt à être envoyé, clarté sur les règles de l'entreprise concernant l'IA et consigne pour que l'IA propose elle-même la phrase la prochaine fois.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "d260d34bbe7d67d39d947924910bd6ef538a060c5e17e09609603c479fd726b9",
-    "path": "references/workouts/fr/ai-disclosure.md"
+    "estimatedMinutes": 15
   },
   "agent-permissions": {
     "id": "38b22a41-4291-463e-8b0d-bfc173a93e53",
@@ -395,9 +317,7 @@
     "title": "Définissez les autorisations de l’agent : ce qu’il peut faire seul et jamais sans vous",
     "expectedResult": "Un mode d’autorisation choisi, des limites strictes dans le fichier de règles pour l’IA et une vérification sur une tâche réelle qu’elle les respecte.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "b2114fed8774c503374bfc691e0821c3634ceb62e0a4439bc3ba3d0a246258a9",
-    "path": "references/workouts/fr/agent-permissions.md"
+    "estimatedMinutes": 15
   },
   "live-web-data": {
     "id": "8969b5d0-8482-4185-91ab-008327c96c55",
@@ -405,9 +325,7 @@
     "title": "Laissez l'IA télécharger des données en direct : chiffres actuels avec source et date",
     "expectedResult": "Un tableau des chiffres pour votre tâche, l'essentiel vérifié à la source, et la procédure que l'IA exécutera la prochaine fois sur une seule phrase.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "97aac24fb93fc4cc13207719d9516a315d47200a1c58f2b96bde99a7dc147b26",
-    "path": "references/workouts/fr/live-web-data.md"
+    "estimatedMinutes": 15
   },
   "parallel-ai-workstreams": {
     "id": "be77c092-129c-490e-a122-a1d56a92f705",
@@ -415,9 +333,7 @@
     "title": "Divisez le travail en fils parallèles : l'IA traite toutes les parties simultanément",
     "expectedResult": "Travail plus important achevé grâce aux fils parallèles, comparaison avec vos décisions et règle pour la prochaine division.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "aaa998af5f911eab6057f236221af15fa984d42b6137d4b119784042318f4090",
-    "path": "references/workouts/fr/parallel-ai-workstreams.md"
+    "estimatedMinutes": 15
   },
   "hooks": {
     "id": "a9a22bdc-ed72-409e-8f73-e377b9f41616",
@@ -425,9 +341,7 @@
     "title": "Configurez un hook : contrôle des documents que l’IA ne manquera pas",
     "expectedResult": "Hook avec contrôle selon vos règles, détections dans les documents anciens et résultat du contrôle après chaque travail.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "a0e90cd06089a37d686f1ed0dc515dbff5030753c272e749b1c6cec836dac269",
-    "path": "references/workouts/fr/hooks.md"
+    "estimatedMinutes": 15
   },
   "agent-work-status": {
     "id": "d686aada-d48b-4440-9fc7-391bdaa0f952",
@@ -435,8 +349,6 @@
     "title": "Laissez l'IA enregistrer l'état des tâches : votre collègue sait où en est votre travail",
     "expectedResult": "Un travail mené à terme, de la création à la clôture de la tâche, avec un enregistrement dans le journal de travail et une règle que l'IA applique systématiquement.",
     "minimumMinutes": 15,
-    "estimatedMinutes": 15,
-    "sha256": "c62bd656ce8d7704c417b3d8a3b1760c6ea8bd48faf3eeef45d7c6c10cdf0eee",
-    "path": "references/workouts/fr/agent-work-status.md"
+    "estimatedMinutes": 15
   }
 }
