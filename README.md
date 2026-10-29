@@ -33,3 +33,11 @@ The workflow does not create a hidden profile or modify Claude's cross-session i
 ## Request for manual review
 
 This Directory build intentionally avoids the data sources prohibited by Directory Policy section 1.G. Authentication to the declared MCP uses the host-managed OAuth flow. No local executable is included in the plugin.
+
+## Reviewer use cases
+
+1. **Explain a confirmed report:** `Use Superpowered to explain my latest confirmed report. Give me one practical next action for this week.`
+2. **Coach current work:** `Use Superpowered to coach this task: I prepare a weekly team update and spend too long turning notes into a clear narrative. Recommend three catalog choices and wait for my selection.`
+3. **Assess current-conversation evidence:** `Use Superpowered to assess how I work with AI toward faster weekly reporting. Example 1: I used AI to draft an update, then checked every number manually. Example 2: I compared three source documents with AI and corrected two unsupported claims. Example 3: I created a reusable reporting prompt and used it for four weeks. Show the complete report and do not save it unless I confirm that exact preview in a later message.`
+
+A dedicated reviewer account with sample data is provisioned. Anthropic reviewers can obtain its private credentials through the submission contact, `info@aibility.cz`; credentials are never published in this repository.
