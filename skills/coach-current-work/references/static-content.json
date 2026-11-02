@@ -1,6 +1,6 @@
 {
   "staticVersion": "anthropic-static-instructions-v2",
-  "packageVersion": "1.2.6",
+  "packageVersion": "1.2.7",
   "principles": {
     "cs": {
       "schemaVersion": "2",
